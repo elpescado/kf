@@ -4,7 +4,7 @@ dnl
 dnl - autoconf is evil
 dnl
 
-AC_INIT(configure.in)
+AC_INIT(configure.ac)
 AM_INIT_AUTOMAKE(kf, "0.5.4.1")
 AM_CONFIG_HEADER(config.h)
 AM_MAINTAINER_MODE
@@ -14,6 +14,8 @@ AM_MAINTAINER_MODE
 AC_ISC_POSIX
 AC_PROG_CC
 AM_PROG_CC_STDC
+
+PKG_PROG_PKG_CONFIG
 
 dnl Optional Stuff
 
