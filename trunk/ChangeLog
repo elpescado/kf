@@ -1,0 +1,134 @@
+version 0.5.4.1 [27.04.2005]
+ * Fixed building with GtkSpell
+ * (Hope) fixed bug that disables GUI functionality
+
+version 0.5.4 [24.04.2005]
+ * New roster iconset: SimpleBulb2
+ * New GNOME icons
+ * Improved look of dialog windows
+ * Changed chat window title so it's shorter and begins with contact name
+ * Changed style of contact list statuses to gray italic
+ * Chat windows preserve size
+ * Trying to enable MUC join dialog to join several bookmarked
+ 	conferences at once
+ * Improved receiving of contacts
+ * Invitation to conference support
+ * Minor JISP-engine updates: "Uninstall" (not functional yet) and "Get More"
+	buttons, author details
+ * Roster window preserves its position
+ * Fixed bug Bug #4849
+
+version 0.5.3 [24.03.2005]
+ * Diplay links in headline messages (Feature request #4841, Bug #4601)
+ * Coloring muc by nickname (Feature request #4822)
+
+version 0.5.2 [20.03.2005]
+ * Better support for JISP roster icon sets
+ * More functional docklet menu
+ * Conferences improved
+ * Bug #4826: status texts (online/extended away etc) are now translated
+ * Feature request #4796: tooltip with topic in MUC
+ * Fixed message archive bugs
+
+version 0.5.1	[26.02.2005]
+ * Fixed bug that caused URLs not to be detected when emoticons were
+ 	turned off
+ * Fixed bug that made kf crash when closing Contact info window
+ 	while waiting for info to load
+
+version 0.5	[23.02.2005]
+ * GUI updates
+ * Roster item exchange (still experimental, still a lot has to be done)
+ * Roster iconsets (in JISP format)
+ * Privacy settings (jabber:iq:privacy)
+
+version 0.4	[27.12.2004]
+ * Tooltips in MUC roster
+ * Nickname tab-completion in MUC (Feature Request #4665)
+ * User now cannot enter the same conference several times (Bug #4656)
+ * Bulgarian translation
+ * New Join Groupchat dialog, added bookmarks for conferences
+ * Fixed FreeBSD/gcc 2.95 builds (thanks to Andrey Slusar)
+ * Fixed Popup notifications (JabberStudio bug #600; Flyspray bug #8, #10)
+ * Message Archive in context menu (JabberStudioFeature Request #4585)
+ * Disabling docklet (Flyspray Feature request #11)
+ * Fixed JabberStudio bugs: #4583 #4589 #4590 (virtually the same bug)
+
+version 0.2	[04.12.2004]
+ * Message Archive fixes
+ * Russian translation
+ * More configuration options in chats and events
+ * Numerous small bugfixes
+
+version 0.1.8	[29.09.2004]
+ * New notify windows
+ * Support for non-x:data forms
+ * Few bugs fixed
+
+version 0.1.7.1	[24.09.2004]
+ * Fixed bug causing kf to crash (in archive)
+
+version 0.1.7	[23.09.2004]
+ * Message Archive fixes
+ * Incoming chat icon in system tray
+ * Fixed docklet - now it works in older versions of GNOME & KDE
+ * Some bugs have been fixed
+
+version 0.1.6	[05.09.2004]
+ * beta Message Archive
+ * Fixed bugs: sound selector, delete item, settings window, status editor
+ 	[thx to Ukasz Gruner]
+ * Roster window can be minimized to tray instead of being closed
+ * Popup notifications can be disabled
+ * Probably a few new bugs;-)
+
+version 0.1.5	[02.07.2004]
+ * MUC support!
+ * events
+ * x:data fixups
+ * sound configuration
+
+version 0.1.4	[23.05.2004]
+ * AutoAway support
+ * Block List
+ * vCard editing
+ * Custom statuses settings
+ * Account registration
+ * SSL/Proxy support... hope it works
+ * Disconnect with status option
+ * New emoticons engine, which is FASTER, FASTER, FASTER
+ * Fixed Connection and Browse windows
+ * You may now change item's group in context menu
+ * Some minor bugs fixed...
+
+version 0.1.3	[03.02.2004]
+ * again, lots of new features :-)
+ * Hiding offline contacts hides also empty groups
+ * vCard support
+ * some bugs fixed
+ * Working Preferences window
+ * Sounds
+ * Accounts Editor
+ * Basic tabbed interface
+
+version 0.1.2	[19.12.2003]
+ * A LOT OF NEW FEATURES
+ * Jabber Browsing
+ * Jabber Search
+ * Jabber Registration using x-data
+ * partial x:data forms support
+ * I can't remember what other features I have done since last release :-)
+
+version 0.1.1	[08.10.2003]
+ * Storing configuration in ~/.kf/config.xml file
+ * Emoticons support
+ * Fixed bugs
+ * 'Hide offline contacts' support
+ * Basic vCard lookup
+ * Some bugs fixed
+
+version 0.1	[29.09.2003]
+ * First public release
+ * Basic functionality including roster management and sending/receiving
+   messages
+ * Probably a lot of bugs

@@ -1,0 +1,23 @@
+kf - linux jabber client
+
+Author:
+Fish - Przmys³aw Sitek
+	email: <psitek@rams.pl>
+	JID: <el.pescado@histeria.pl>
+
+Patches:
+Andrey Slusar <anray@inet.ua>
+
+Inspired by Gabber (http://gabber.sourceforge.net/), by Julian "x-virge" Missig <julian@jabber.org>
+
+Translations:
+Iassen Pramatarov <turin@fsa-bg.org> - Bulgarian
+Nickolay V. Shmyrev <nshmyrev@yandex.ru> - Russian
+
+The presence icons are available under the GPL, but please give credit
+to Youngjin "artwiz" Hahn <artwiz@artramp.org> for creating them.
+
+Contains pieces of artwork from:
+	Gabber Jabber client
+	gnome-icon-theme
+	Crystal icon set

@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="no"?> <!--*- mode: xml -*-->
+<!DOCTYPE glade-interface SYSTEM "http://glade.gnome.org/glade-2.0.dtd">
+
+<glade-interface>
+
+<widget class="GtkMenu" id="dock_menu">
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_new_message">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">New Message</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_new_message_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_message_archive">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Message Archive</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_message_archive_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_join_chatroom">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Join Chatroom</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_join_chatroom_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_browse">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Browse Agents</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_browse_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_seacrh">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Seacrh For Users</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_seacrh_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="dock_register">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Register In Service</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_register_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_prefs">
+      <property name="visible">True</property>
+      <property name="label">gtk-preferences</property>
+      <property name="use_stock">True</property>
+      <signal name="activate" handler="on_dock_prefs_activate" last_modification_time="Sat, 19 Mar 2005 22:19:23 GMT"/>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="separator3">
+      <property name="visible">True</property>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_available">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Online</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_online_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image100">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">online.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_chatty">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Chat With Me!</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_chatty_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image101">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">chat.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_away">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Away</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_away_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image102">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">away.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_xa">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">eXtended Away</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_xa_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image103">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">xa.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_dnd">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Busy</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_dnd_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image104">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">dnd.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_invisible">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Invisible</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_invisible_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image105">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">invisible.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="separator1">
+      <property name="visible">True</property>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_disconnect">
+      <property name="visible">True</property>
+      <property name="label" translatable="yes">Disconnected</property>
+      <property name="use_underline">True</property>
+      <signal name="activate" handler="on_dock_disconnect_activate" last_modification_time="Sat, 27 Dec 2003 14:36:17 GMT"/>
+
+      <child internal-child="image">
+	<widget class="GtkImage" id="image106">
+	  <property name="visible">True</property>
+	  <property name="pixbuf">unavailable.png</property>
+	  <property name="xalign">0.5</property>
+	  <property name="yalign">0.5</property>
+	  <property name="xpad">0</property>
+	  <property name="ypad">0</property>
+	</widget>
+      </child>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkMenuItem" id="separator2">
+      <property name="visible">True</property>
+    </widget>
+  </child>
+
+  <child>
+    <widget class="GtkImageMenuItem" id="dock_quit">
+      <property name="visible">True</property>
+      <property name="label">gtk-quit</property>
+      <property name="use_stock">True</property>
+      <signal name="activate" handler="on_dock_quit_activate" last_modification_time="Sat, 27 Dec 2003 14:20:48 GMT"/>
+    </widget>
+  </child>
+</widget>
+
+</glade-interface>
