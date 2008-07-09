@@ -1,0 +1,24 @@
+kf linux jabber client
+
+conde style:
+/* Comment */
+static void kf_example_function (gint arg1, gpointer data) {
+	some_code_here ();
+}
+
+use:
+	foo_debug (const gchar *fmt, ...);
+		for debugging purposes - it behaves like printf if DEBUG is defined, nothing
+		happens otherwise;
+
+	const gchar *kf_find_file (const gchar *name);
+		for finding files in kf data directory;
+
+	const gchar *kf_config_file (const gchar *name);
+		for finding files in user's kf directory ($HOME/.kf/)
+
+		above two functions return pointer to static buffer which may be changed
+		by subsequent calls
+
+	kf_gui_alert (const gchar *msg);
+		for displaying simple message windows
