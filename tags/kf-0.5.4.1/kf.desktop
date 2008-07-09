@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=kf jabber client
+Name[pl]=kf klient sieci jabber
+Name[lt]=Pokalbių programa kf
+GenericName=Instant Messenger
+GenericName[pl]=Komunikator Internetowy
+Comment=Instant messaging to people, using Jabber, ICQ, MSN and other clients
+Comment[lt]=Pokalbiai internete (su žmonėmis, naudojančiais Jabber, ICQ, MSN ir kitus protokolus)
+Exec=kf
+Icon=kf.png
+Terminal=false
+Type=Application
+Categories=GTK;Application;Network;
+StartupNotify=true

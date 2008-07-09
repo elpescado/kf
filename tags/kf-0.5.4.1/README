@@ -1,0 +1,15 @@
+kf - komunikator fisha
+
+(c) 2003 Przemys³aw Sitek
+
+A simple Jabber (visit http://www.jabber.org/) client using the GTK+ 2.0 toolkit.
+
+To build, you need:
+ * Loudmouth (http://www.imendio.com/projects/loudmouth/)
+ * GTK+ 2.0 (http://www.gtk.org/)
+ * Libglade-2.0
+ * libXML (needed by libglade or loudmouth ;-))
+
+This is still a beta release, so it contains probably A LOT OF bugs:-)
+ 
+Enjoy!
