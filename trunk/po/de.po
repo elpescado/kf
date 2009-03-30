@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-04-24 22:24+0200\n"
-"PO-Revision-Date: 2008-11-20 13:22+0100\n"
+"POT-Creation-Date: 2009-03-30 19:48+0000\n"
+"PO-Revision-Date: 2009-03-30 22:35+0100\n"
 "Last-Translator: Fabian Affolter <fab@fedoraproject.org>\n"
 "Language-Team: German <fedora-trans-de@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -22,37 +22,38 @@ msgstr ""
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/archive.glade.h:7
-#: data/dock.glade.h:8
-#: data/kf.glade.h:20
+#: ../data/archive.glade.h:7
+#: ../data/dock.glade.h:8
+#: ../data/kf.glade.h:20
+#, fuzzy
 msgid "Message Archive"
-msgstr ""
+msgstr "Archivdateien"
 
-#: data/archive.glade.h:8
-#: data/msg.glade.h:9
+#: ../data/archive.glade.h:8
+#: ../data/msg.glade.h:9
 msgid "<b>Subject:</b>"
-msgstr ""
+msgstr "<b>Betreff:</b>"
 
-#: data/archive.glade.h:9
+#: ../data/archive.glade.h:9
 msgid "<b>From:</b>"
-msgstr ""
+msgstr "<b>Von:</b>"
 
-#: data/archive.glade.h:10
+#: ../data/archive.glade.h:10
 msgid "<b>Date:</b>"
-msgstr ""
+msgstr "<b>Datum:</b>"
 
-#: data/archive.glade.h:11
-#: data/kf.glade.h:85
-#: data/search.glade.h:20
+#: ../data/archive.glade.h:11
+#: ../data/kf.glade.h:85
+#: ../data/search.glade.h:20
 msgid "label4"
 msgstr "label4"
 
-#: data/archive.glade.h:12
-#: data/kf.glade.h:86
+#: ../data/archive.glade.h:12
+#: ../data/kf.glade.h:86
 msgid "label5"
 msgstr "label5"
 
-#: data/archive.glade.h:13
+#: ../data/archive.glade.h:13
 msgid "label6"
 msgstr "label6"
 
@@ -61,191 +62,203 @@ msgstr "label6"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/browse.glade.h:7
-#: data/kf.glade.h:34
+#: ../data/browse.glade.h:7
+#: ../data/kf.glade.h:34
 msgid "Jabber Browser"
-msgstr ""
+msgstr "Jabber Browser"
 
-#: data/browse.glade.h:8
+#: ../data/browse.glade.h:8
 msgid "Jabber ID:"
 msgstr "Jabber-ID:"
 
-#: data/browse.glade.h:9
+#: ../data/browse.glade.h:9
 msgid "jabber.org"
-msgstr ""
+msgstr "jabber.org"
 
-#: data/browse.glade.h:10
-#: data/kf.glade.h:54
-#: data/kf.glade.h:55
-#: data/kf.glade.h:56
-#: data/kf.glade.h:62
-#: data/kf.glade.h:70
-#: data/kf.glade.h:76
-#: data/kf.glade.h:77
-#: data/kf.glade.h:78
-#: data/kf.glade.h:96
-#: data/kf.glade.h:123
-#: data/kf.glade.h:124
-#: data/kf.glade.h:125
-#: data/kf.glade.h:175
-#: data/kf.glade.h:176
-#: data/kf.glade.h:177
-#: data/kf.glade.h:179
-#: data/kf.glade.h:189
-#: data/kf.glade.h:194
-#: data/kf.glade.h:202
-#: data/kf.glade.h:220
-#: data/kf.glade.h:233
-#: data/kf.glade.h:234
-#: data/kf.glade.h:235
-#: data/kf.glade.h:238
-#: data/msg.glade.h:10
-#: data/msg.glade.h:11
-#: data/muc.glade.h:10
-#: data/muc.glade.h:37
-#: data/muc_join.glade.h:12
-#: data/muc_join.glade.h:13
-#: data/muc_join.glade.h:14
-#: data/muc_join.glade.h:15
-#: data/new_account.glade.h:14
-#: data/new_account.glade.h:15
-#: data/new_account.glade.h:16
-#: data/new_account.glade.h:17
-#: data/new_account.glade.h:18
-#: data/register.glade.h:10
-#: data/search.glade.h:9
-#: data/status.glade.h:9
-#: data/vcard.glade.h:11
-#: data/vcard.glade.h:27
-#: data/vcard.glade.h:28
-#: data/vcard.glade.h:29
-#: data/vcard.glade.h:30
-#: data/vcard.glade.h:31
-#: data/vcard.glade.h:32
-#: data/vcard.glade.h:39
-#: data/vcard.glade.h:40
-#: data/vcard.glade.h:41
-#: data/vcard.glade.h:42
-#: data/vcard.glade.h:43
-#: data/vcard.glade.h:44
-#: data/vcard.glade.h:50
-#: data/vcard.glade.h:51
-#: data/vcard.glade.h:52
-#: data/vcard.glade.h:53
+#: ../data/browse.glade.h:10
+#: ../data/kf.glade.h:54
+#: ../data/kf.glade.h:55
+#: ../data/kf.glade.h:56
+#: ../data/kf.glade.h:62
+#: ../data/kf.glade.h:70
+#: ../data/kf.glade.h:76
+#: ../data/kf.glade.h:77
+#: ../data/kf.glade.h:78
+#: ../data/kf.glade.h:96
+#: ../data/kf.glade.h:123
+#: ../data/kf.glade.h:124
+#: ../data/kf.glade.h:125
+#: ../data/kf.glade.h:175
+#: ../data/kf.glade.h:176
+#: ../data/kf.glade.h:177
+#: ../data/kf.glade.h:179
+#: ../data/kf.glade.h:189
+#: ../data/kf.glade.h:194
+#: ../data/kf.glade.h:202
+#: ../data/kf.glade.h:220
+#: ../data/kf.glade.h:233
+#: ../data/kf.glade.h:234
+#: ../data/kf.glade.h:235
+#: ../data/kf.glade.h:238
+#: ../data/msg.glade.h:10
+#: ../data/msg.glade.h:11
+#: ../data/muc.glade.h:10
+#: ../data/muc.glade.h:37
+#: ../data/muc_join.glade.h:12
+#: ../data/muc_join.glade.h:13
+#: ../data/muc_join.glade.h:14
+#: ../data/muc_join.glade.h:15
+#: ../data/new_account.glade.h:14
+#: ../data/new_account.glade.h:15
+#: ../data/new_account.glade.h:16
+#: ../data/new_account.glade.h:17
+#: ../data/new_account.glade.h:18
+#: ../data/register.glade.h:10
+#: ../data/search.glade.h:9
+#: ../data/status.glade.h:9
+#: ../data/vcard.glade.h:11
+#: ../data/vcard.glade.h:27
+#: ../data/vcard.glade.h:28
+#: ../data/vcard.glade.h:29
+#: ../data/vcard.glade.h:30
+#: ../data/vcard.glade.h:31
+#: ../data/vcard.glade.h:32
+#: ../data/vcard.glade.h:39
+#: ../data/vcard.glade.h:40
+#: ../data/vcard.glade.h:41
+#: ../data/vcard.glade.h:42
+#: ../data/vcard.glade.h:43
+#: ../data/vcard.glade.h:44
+#: ../data/vcard.glade.h:50
+#: ../data/vcard.glade.h:51
+#: ../data/vcard.glade.h:52
+#: ../data/vcard.glade.h:53
 msgid "*"
 msgstr "*"
 
-#: data/browse.glade.h:11
-#: data/browse.glade.h:15
+#: ../data/browse.glade.h:11
+#: ../data/browse.glade.h:15
 msgid "Browse"
-msgstr ""
+msgstr "Durchsuchen"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/browse.glade.h:12
-#: data/browse.glade.h:16
-#: data/register.glade.h:7
+#: ../data/browse.glade.h:12
+#: ../data/browse.glade.h:16
+#: ../data/register.glade.h:7
+#, fuzzy
 msgid "Register"
-msgstr ""
+msgstr "Registrieren"
 
-#: data/browse.glade.h:13
-#: data/browse.glade.h:17
+#: ../data/browse.glade.h:13
+#: ../data/browse.glade.h:17
 msgid "Search"
-msgstr ""
+msgstr "Suchen"
 
-#: data/browse.glade.h:14
-#: data/browse.glade.h:18
+#: ../data/browse.glade.h:14
+#: ../data/browse.glade.h:18
 msgid "Join"
-msgstr ""
+msgstr "Anmelden"
 
-#: data/browse.glade.h:19
+#: ../data/browse.glade.h:19
+#, fuzzy
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/chat.glade.h:7
+#: ../data/chat.glade.h:7
 #, c-format
 msgid "%s"
 msgstr "%s"
 
-#: data/chat.glade.h:8
+#: ../data/chat.glade.h:8
+#, fuzzy
 msgid "Click here for menu"
-msgstr ""
+msgstr "Menüänderungen überwachen"
 
-#: data/chat.glade.h:9
-#: data/register.glade.h:11
+#: ../data/chat.glade.h:9
+#: ../data/register.glade.h:11
 msgid "label1"
 msgstr "label1"
 
-#: data/chat.glade.h:10
+#: ../data/chat.glade.h:10
+#, fuzzy
 msgid "Add this contact..."
-msgstr ""
+msgstr "Neuen Kontakt hinzufügen"
 
-#: data/chat.glade.h:11
-#: data/kf.glade.h:98
-#: data/kf.glade.h:127
-#: data/muc.glade.h:16
+#: ../data/chat.glade.h:11
+#: ../data/kf.glade.h:98
+#: ../data/kf.glade.h:127
+#: ../data/muc.glade.h:16
+#, fuzzy
 msgid "Message..."
-msgstr ""
+msgstr "Nachricht:"
 
-#: data/chat.glade.h:12
+#: ../data/chat.glade.h:12
 msgid "History..."
-msgstr ""
+msgstr "Verlauf ..."
 
-#: data/chat.glade.h:13
-#: data/kf.glade.h:101
-#: data/muc.glade.h:18
+#: ../data/chat.glade.h:13
+#: ../data/kf.glade.h:101
+#: ../data/muc.glade.h:18
+#, fuzzy
 msgid "Contact Info..."
-msgstr ""
+msgstr "Kontakt-Info"
 
-#: data/chat.glade.h:14
+#: ../data/chat.glade.h:14
+#, fuzzy
 msgid "Clear Buffer"
-msgstr ""
+msgstr "  \\r             Anfragepuffer löschen\n"
 
-#: data/chat.glade.h:15
+#: ../data/chat.glade.h:15
+#, fuzzy
 msgid "Block user"
-msgstr ""
+msgstr "Benutzer blockieren"
 
-#: data/chat.glade.h:16
+#: ../data/chat.glade.h:16
 msgid "Tabify"
 msgstr ""
 
-#: data/chat.glade.h:17
+#: ../data/chat.glade.h:17
 msgid "Windowify"
 msgstr ""
 
-#: data/chat.glade.h:18
+#: ../data/chat.glade.h:18
+#, fuzzy
 msgid "Open in new window"
-msgstr ""
+msgstr "In neuem _Fenster öffnen"
 
-#: data/chat.glade.h:19
+#: ../data/chat.glade.h:19
 msgid "Close tab"
-msgstr ""
+msgstr "Reiter schliessen"
 
-#: data/chat.glade.h:20
+#: ../data/chat.glade.h:20
+#, fuzzy
 msgid "Tab position"
-msgstr ""
+msgstr "Reiterposition"
 
-#: data/chat.glade.h:21
+#: ../data/chat.glade.h:21
+#, fuzzy
 msgid "Top"
-msgstr ""
+msgstr "Oben"
 
-#: data/chat.glade.h:22
+#: ../data/chat.glade.h:22
+#, fuzzy
 msgid "Bottom"
-msgstr ""
+msgstr "Unten"
 
-#: data/chat.glade.h:23
+#: ../data/chat.glade.h:23
 msgid "Left"
 msgstr "Links"
 
-#: data/chat.glade.h:24
+#: ../data/chat.glade.h:24
 msgid "Right"
 msgstr "Rechts"
 
@@ -254,1404 +267,1546 @@ msgstr "Rechts"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/dock.glade.h:7
-#: data/msg.glade.h:7
+#: ../data/dock.glade.h:7
+#: ../data/msg.glade.h:7
+#, fuzzy
 msgid "New Message"
-msgstr ""
+msgstr "Neue Nachricht"
 
-#: data/dock.glade.h:9
+#: ../data/dock.glade.h:9
+#, fuzzy
 msgid "Join Chatroom"
-msgstr ""
+msgstr "Beitrittsnachricht"
 
-#: data/dock.glade.h:10
+#: ../data/dock.glade.h:10
+#, fuzzy
 msgid "Browse Agents"
-msgstr ""
+msgstr "Wähle Kartendatei"
 
-#: data/dock.glade.h:11
+#: ../data/dock.glade.h:11
+#, fuzzy
 msgid "Seacrh For Users"
-msgstr ""
+msgstr "Suche nach Benutzern..."
 
-#: data/dock.glade.h:12
+#: ../data/dock.glade.h:12
+#, fuzzy
 msgid "Register In Service"
-msgstr ""
+msgstr "Kann den Service nicht registrieren"
 
-#: data/dock.glade.h:13
+#: ../data/dock.glade.h:13
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
-#: data/dock.glade.h:14
-#: data/kf.glade.h:41
+#: ../data/dock.glade.h:14
+#: ../data/kf.glade.h:41
+#, fuzzy
 msgid "Chat With Me!"
-msgstr ""
+msgstr "register:  Für einen Chatraum anmelden."
 
-#: data/dock.glade.h:15
-#: data/kf.glade.h:42
+#: ../data/dock.glade.h:15
+#: ../data/kf.glade.h:42
 msgid "Away"
-msgstr ""
+msgstr "Abwesend"
 
-#: data/dock.glade.h:16
-#: data/kf.glade.h:43
+#: ../data/dock.glade.h:16
+#: ../data/kf.glade.h:43
+#, fuzzy
 msgid "eXtended Away"
-msgstr ""
+msgstr "Abwesend (erweitert)"
 
-#: data/dock.glade.h:17
-#: data/kf.glade.h:44
+#: ../data/dock.glade.h:17
+#: ../data/kf.glade.h:44
 msgid "Busy"
-msgstr ""
+msgstr "Beschäftigt"
 
-#: data/dock.glade.h:18
-#: data/kf.glade.h:45
+#: ../data/dock.glade.h:18
+#: ../data/kf.glade.h:45
 msgid "Invisible"
-msgstr ""
+msgstr "Unsichtbar"
 
-#: data/dock.glade.h:19
-#: data/kf.glade.h:46
+#: ../data/dock.glade.h:19
+#: ../data/kf.glade.h:46
 msgid "Disconnected"
-msgstr ""
+msgstr "Getrennt"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:7
-#: data/kf.glade.h:63
+#: ../data/kf.glade.h:7
+#: ../data/kf.glade.h:63
 msgid "kf"
 msgstr "kf"
 
-#: data/kf.glade.h:8
+#: ../data/kf.glade.h:8
 msgid "Actions"
-msgstr ""
+msgstr "Aktionen"
 
-#: data/kf.glade.h:9
-#: data/kf.glade.h:97
+#: ../data/kf.glade.h:9
+#: ../data/kf.glade.h:97
 msgid "Add Contact..."
-msgstr ""
+msgstr "Kontakt hinzufügen ..."
 
-#: data/kf.glade.h:10
+#: ../data/kf.glade.h:10
 msgid "New Message.."
-msgstr ""
+msgstr "Neue Nachricht ..."
 
-#: data/kf.glade.h:11
+#: ../data/kf.glade.h:11
 msgid "View"
 msgstr "Ansicht"
 
-#: data/kf.glade.h:12
+#: ../data/kf.glade.h:12
+#, fuzzy
 msgid "Toolbar"
-msgstr ""
+msgstr "Werkzeugleiste"
 
-#: data/kf.glade.h:13
+#: ../data/kf.glade.h:13
+#, fuzzy
 msgid "Offline Contacts"
-msgstr ""
+msgstr "_Abgemeldete Kontakte anzeigen"
 
-#: data/kf.glade.h:14
-#: data/kf.glade.h:116
+#: ../data/kf.glade.h:14
+#: ../data/kf.glade.h:116
 msgid "XML Console"
-msgstr ""
+msgstr "XML-Konsole"
 
-#: data/kf.glade.h:15
+#: ../data/kf.glade.h:15
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
-#: data/kf.glade.h:16
-#: data/kf.glade.h:239
+#: ../data/kf.glade.h:16
+#: ../data/kf.glade.h:239
 msgid "About..."
 msgstr "Über ..."
 
-#: data/kf.glade.h:17
+#: ../data/kf.glade.h:17
 msgid "Exit"
-msgstr ""
+msgstr "Verlassen"
 
-#: data/kf.glade.h:18
+#: ../data/kf.glade.h:18
 msgid "Services"
 msgstr "Dienste"
 
-#: data/kf.glade.h:19
-#: src/vcard.c:357
+#: ../data/kf.glade.h:19
+#: ../src/vcard.c:357
 msgid "My vCard"
-msgstr ""
+msgstr "Meine vCard"
 
-#: data/kf.glade.h:21
+#: ../data/kf.glade.h:21
+#, fuzzy
 msgid "Join Chatroom..."
-msgstr ""
+msgstr "Beitrittsnachricht"
 
-#: data/kf.glade.h:22
+#: ../data/kf.glade.h:22
+#, fuzzy
 msgid "Browse Agents..."
-msgstr ""
+msgstr "Wähle Kartendatei"
 
-#: data/kf.glade.h:23
+#: ../data/kf.glade.h:23
+#, fuzzy
 msgid "Search for users..."
-msgstr ""
+msgstr "Suche nach Benutzern..."
 
-#: data/kf.glade.h:24
+#: ../data/kf.glade.h:24
+#, fuzzy
 msgid "Register In Service..."
-msgstr ""
+msgstr "Kann den Service nicht registrieren"
 
-#: data/kf.glade.h:25
+#: ../data/kf.glade.h:25
+#, fuzzy
 msgid "Change Password..."
-msgstr ""
+msgstr "Passwort ändern..."
 
-#: data/kf.glade.h:26
+#: ../data/kf.glade.h:26
+#, fuzzy
 msgid "Privacy settings..."
-msgstr ""
+msgstr "GPS Sochn"
 
-#: data/kf.glade.h:27
+#: ../data/kf.glade.h:27
+#, fuzzy
 msgid "Add contats to your roster"
-msgstr ""
+msgstr "Benutzer zu Ihrer Buddy-Liste hinzufügen?"
 
-#: data/kf.glade.h:28
-#: data/search.glade.h:19
+#: ../data/kf.glade.h:28
+#: ../data/search.glade.h:19
 msgid "Add contact"
-msgstr ""
+msgstr "Kontakt hinzufügen"
 
-#: data/kf.glade.h:29
+#: ../data/kf.glade.h:29
+#, fuzzy
 msgid "Join a conference"
-msgstr ""
+msgstr "Konferenz geschlossen"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:30
-#: data/muc_join.glade.h:7
+#: ../data/kf.glade.h:30
+#: ../data/muc_join.glade.h:7
+#, fuzzy
 msgid "Join Conference"
-msgstr ""
+msgstr "Konferenz geschlossen"
 
-#: data/kf.glade.h:31
+#: ../data/kf.glade.h:31
+#, fuzzy
 msgid "Show/hide offline contacts"
-msgstr ""
+msgstr "Führungslinien anzeigen oder ausblenden"
 
-#: data/kf.glade.h:32
+#: ../data/kf.glade.h:32
+#, fuzzy
 msgid "Show offline"
-msgstr ""
+msgstr "/Buddys/Anzeigen/Offline-Buddys"
 
-#: data/kf.glade.h:33
+#: ../data/kf.glade.h:33
+#, fuzzy
 msgid "Browse services"
-msgstr ""
+msgstr "Vertrauenswürdige Dienste:"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:35
-#: data/search.glade.h:7
+#: ../data/kf.glade.h:35
+#: ../data/search.glade.h:7
+#, fuzzy
 msgid "Search for users"
-msgstr ""
+msgstr "Suche nach Benutzern..."
 
-#: data/kf.glade.h:36
+#: ../data/kf.glade.h:36
 msgid "Find Users"
-msgstr ""
+msgstr "Benutzer finden"
 
-#: data/kf.glade.h:37
+#: ../data/kf.glade.h:37
+#, fuzzy
 msgid "Buddies"
-msgstr ""
+msgstr "Buddys"
 
-#: data/kf.glade.h:38
+#: ../data/kf.glade.h:38
+#, fuzzy
 msgid "Change your status here"
-msgstr ""
+msgstr "Geben Sie hier Ihren Text ein"
 
-#: data/kf.glade.h:39
+#: ../data/kf.glade.h:39
 msgid "Status"
 msgstr "Status"
 
-#: data/kf.glade.h:40
+#: ../data/kf.glade.h:40
 msgid "Available"
 msgstr "Verfügbar"
 
-#: data/kf.glade.h:47
+#: ../data/kf.glade.h:47
+#, fuzzy
 msgid "Disconnected with status"
-msgstr ""
+msgstr "%s: %s beendet mit Status %d\n"
 
-#: data/kf.glade.h:48
+#: ../data/kf.glade.h:48
+#, fuzzy
 msgid "Connection Settings"
-msgstr ""
+msgstr "GPS Sochn"
 
-#: data/kf.glade.h:49
+#: ../data/kf.glade.h:49
+#, fuzzy
 msgid "<big><b>Connection Settings</b></big>"
-msgstr ""
+msgstr "Verbindungen und Authentifizierung / Verbindungseinstellungen"
 
-#: data/kf.glade.h:50
-#: data/muc_join.glade.h:11
-#: data/new_account.glade.h:10
+#: ../data/kf.glade.h:50
+#: ../data/muc_join.glade.h:11
+#: ../data/new_account.glade.h:10
 msgid "_Password"
 msgstr "_Passwort"
 
-#: data/kf.glade.h:51
-#: data/muc_join.glade.h:8
-#: data/new_account.glade.h:9
+#: ../data/kf.glade.h:51
+#: ../data/muc_join.glade.h:8
+#: ../data/new_account.glade.h:9
 msgid "_Server"
 msgstr "_Server"
 
-#: data/kf.glade.h:52
-#: data/new_account.glade.h:11
+#: ../data/kf.glade.h:52
+#: ../data/new_account.glade.h:11
 msgid "_Username"
 msgstr "_Benutzername"
 
-#: data/kf.glade.h:53
+#: ../data/kf.glade.h:53
 msgid "<b>_Account</b>"
 msgstr "<b>_Konto</b>"
 
-#: data/kf.glade.h:57
+#: ../data/kf.glade.h:57
 msgid "Click here to save your account settings for future use"
 msgstr ""
 
-#: data/kf.glade.h:58
+#: ../data/kf.glade.h:58
 msgid "Check this if you want your password to be saved. Otherwise, you will be prompted each time you login."
 msgstr ""
 
-#: data/kf.glade.h:59
+#: ../data/kf.glade.h:59
+#, fuzzy
 msgid "Sa_ve Password"
-msgstr ""
+msgstr "Optionen _speichern"
 
-#: data/kf.glade.h:60
+#: ../data/kf.glade.h:60
 msgid "Resource"
 msgstr "Resource"
 
-#: data/kf.glade.h:61
+#: ../data/kf.glade.h:61
+#, fuzzy
 msgid "Connection using SSL"
-msgstr ""
+msgstr "SSL Verbindung unter Verwendung von %s (%s)"
 
-#: data/kf.glade.h:64
+#: ../data/kf.glade.h:64
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
-#: data/kf.glade.h:65
+#: ../data/kf.glade.h:65
 msgid "Work"
-msgstr ""
+msgstr "Arbeit"
 
-#: data/kf.glade.h:66
+#: ../data/kf.glade.h:66
 msgid "School"
-msgstr ""
+msgstr "Schule"
 
-#: data/kf.glade.h:67
-#: data/kf.glade.h:73
+#: ../data/kf.glade.h:67
+#: ../data/kf.glade.h:73
+#, fuzzy
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
-#: data/kf.glade.h:68
+#: ../data/kf.glade.h:68
+#, fuzzy
 msgid "Priority"
-msgstr ""
+msgstr "Priorität"
 
-#: data/kf.glade.h:69
+#: ../data/kf.glade.h:69
+#, fuzzy
 msgid "Manuallly specify jabber server:"
-msgstr ""
+msgstr "Server-URL angeben (Standard: \"%default\")"
 
-#: data/kf.glade.h:71
+#: ../data/kf.glade.h:71
+#, fuzzy
 msgid "Advanced settings"
-msgstr ""
+msgstr "Erweiterte Optionen"
 
-#: data/kf.glade.h:72
+#: ../data/kf.glade.h:72
 msgid "Server"
 msgstr "Server"
 
-#: data/kf.glade.h:74
+#: ../data/kf.glade.h:74
 msgid "Username"
 msgstr "Benutzername"
 
-#: data/kf.glade.h:75
-#: data/kf.glade.h:236
+#: ../data/kf.glade.h:75
+#: ../data/kf.glade.h:236
 msgid "Password"
 msgstr "Passwort"
 
-#: data/kf.glade.h:79
+#: ../data/kf.glade.h:79
 msgid "Use proxy"
 msgstr "Benutze Proxy"
 
-#: data/kf.glade.h:80
+#: ../data/kf.glade.h:80
 msgid "Proxy"
 msgstr "Proxy"
 
-#: data/kf.glade.h:81
+#: ../data/kf.glade.h:81
+#, fuzzy
 msgid "Register new account..."
-msgstr ""
+msgstr "Registrierung eines neuen Kontos von %s"
 
-#: data/kf.glade.h:82
+#: ../data/kf.glade.h:82
+#, fuzzy
 msgid "Connect to a Jabber server"
-msgstr ""
+msgstr "Verbindung zum Server fehlgeschlagen"
 
-#: data/kf.glade.h:83
+#: ../data/kf.glade.h:83
 msgid "Save settings"
-msgstr ""
+msgstr "Einstellungen speichern"
 
-#: data/kf.glade.h:84
-#: data/kf.glade.h:140
+#: ../data/kf.glade.h:84
+#: ../data/kf.glade.h:140
 msgid "Message"
-msgstr ""
+msgstr "Meldung"
 
-#: data/kf.glade.h:87
+#: ../data/kf.glade.h:87
 msgid "label12"
 msgstr "label12"
 
-#: data/kf.glade.h:88
+#: ../data/kf.glade.h:88
 msgid "<b>From</b>"
-msgstr ""
+msgstr "<b>Von</b>"
 
-#: data/kf.glade.h:89
+#: ../data/kf.glade.h:89
+#, fuzzy
 msgid "<b>Subject</b>"
-msgstr ""
+msgstr "Betreff:"
 
-#: data/kf.glade.h:90
+#: ../data/kf.glade.h:90
 msgid "<b>Date</b>"
-msgstr ""
+msgstr "<b>Datum</b>"
 
-#: data/kf.glade.h:91
+#: ../data/kf.glade.h:91
 msgid "Reply"
-msgstr ""
+msgstr "Antwort"
 
-#: data/kf.glade.h:92
+#: ../data/kf.glade.h:92
+#, fuzzy
 msgid "Next"
-msgstr ""
+msgstr "Vor"
 
-#: data/kf.glade.h:93
+#: ../data/kf.glade.h:93
 msgid "Change Status"
-msgstr ""
+msgstr "Status ändern"
 
-#: data/kf.glade.h:94
+#: ../data/kf.glade.h:94
+#, fuzzy
 msgid "Template"
-msgstr ""
+msgstr "Vorlage"
 
-#: data/kf.glade.h:95
+#: ../data/kf.glade.h:95
+#, fuzzy
 msgid "Add this status to Templates"
-msgstr ""
+msgstr "Ein Foto zum Schlüssel hinzufügen"
 
-#: data/kf.glade.h:99
-#: data/kf.glade.h:128
-#: data/muc.glade.h:17
+#: ../data/kf.glade.h:99
+#: ../data/kf.glade.h:128
+#: ../data/muc.glade.h:17
 msgid "Chat..."
-msgstr ""
+msgstr "Chat ..."
 
-#: data/kf.glade.h:100
+#: ../data/kf.glade.h:100
+#, fuzzy
 msgid "Message History..."
-msgstr ""
+msgstr "_Chronik löschen"
 
-#: data/kf.glade.h:102
+#: ../data/kf.glade.h:102
+#, fuzzy
 msgid "Invite to"
-msgstr ""
+msgstr "Zur Konferenz einladen"
 
-#: data/kf.glade.h:103
+#: ../data/kf.glade.h:103
+#, fuzzy
 msgid "Send Contacts..."
-msgstr ""
+msgstr "<b>Kontakte anzeigen</b>"
 
-#: data/kf.glade.h:104
+#: ../data/kf.glade.h:104
 msgid "Register..."
-msgstr ""
+msgstr "Registrieren ..."
 
-#: data/kf.glade.h:105
+#: ../data/kf.glade.h:105
 msgid "Search..."
-msgstr ""
+msgstr "Suchen …"
 
-#: data/kf.glade.h:106
+#: ../data/kf.glade.h:106
 msgid "Log In"
-msgstr ""
+msgstr "Anmelden"
 
-#: data/kf.glade.h:107
-#: data/kf.glade.h:129
+#: ../data/kf.glade.h:107
+#: ../data/kf.glade.h:129
 msgid "Log Out"
-msgstr ""
+msgstr "Abmelden"
 
-#: data/kf.glade.h:108
+#: ../data/kf.glade.h:108
 msgid "Presence"
-msgstr ""
+msgstr "Anwesenheit"
 
-#: data/kf.glade.h:109
+#: ../data/kf.glade.h:109
+#, fuzzy
 msgid "Send Online"
-msgstr ""
+msgstr "  %-20s online\n"
 
-#: data/kf.glade.h:110
+#: ../data/kf.glade.h:110
+#, fuzzy
 msgid "Send Invisible"
-msgstr ""
+msgstr "Maskierung:"
 
-#: data/kf.glade.h:111
+#: ../data/kf.glade.h:111
 msgid "Ask"
-msgstr ""
+msgstr "Nachfragen"
 
-#: data/kf.glade.h:112
+#: ../data/kf.glade.h:112
+#, fuzzy
 msgid "Give"
-msgstr ""
+msgstr "Op geben"
 
-#: data/kf.glade.h:113
+#: ../data/kf.glade.h:113
 msgid "Deny"
-msgstr ""
+msgstr "Ablehnen"
 
-#: data/kf.glade.h:114
-#: data/kf.glade.h:122
+#: ../data/kf.glade.h:114
+#: ../data/kf.glade.h:122
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
-#: data/kf.glade.h:115
+#: ../data/kf.glade.h:115
+#, fuzzy
 msgid "Remove contact"
-msgstr ""
+msgstr "Kontakt entfernen"
 
-#: data/kf.glade.h:117
-#: data/muc.glade.h:15
+#: ../data/kf.glade.h:117
+#: ../data/muc.glade.h:15
 msgid "Send"
-msgstr ""
+msgstr "Absenden"
 
-#: data/kf.glade.h:118
+#: ../data/kf.glade.h:118
 msgid "Add Contact"
-msgstr ""
+msgstr "Kontakt hinzufügen"
 
-#: data/kf.glade.h:119
+#: ../data/kf.glade.h:119
+#, fuzzy
 msgid "<big><b>Add Contact</b></big>"
-msgstr ""
+msgstr "Neuen Kontakt hinzufügen"
 
-#: data/kf.glade.h:120
+#: ../data/kf.glade.h:120
 msgid "JabberID"
 msgstr "JabberID"
 
-#: data/kf.glade.h:121
-#: data/status.glade.h:8
-#: data/vcard.glade.h:46
-#: src/accounts.c:505
-#: src/settings_blacklist.c:64
-#: src/settings_statuses.c:68
+#: ../data/kf.glade.h:121
+#: ../data/status.glade.h:8
+#: ../data/vcard.glade.h:46
+#: ../src/accounts.c:505
+#: ../src/settings_blacklist.c:64
+#: ../src/settings_statuses.c:68
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
-#: data/kf.glade.h:126
+#: ../data/kf.glade.h:126
+#, fuzzy
 msgid "Ask for subscription"
-msgstr ""
+msgstr "Keine"
 
-#: data/kf.glade.h:130
+#: ../data/kf.glade.h:130
+#, fuzzy
 msgid "Agent Info..."
-msgstr ""
+msgstr "GPS Info"
 
-#: data/kf.glade.h:131
+#: ../data/kf.glade.h:131
 msgid "Remove Agent"
-msgstr ""
+msgstr "Entferne Agent"
 
-#: data/kf.glade.h:132
+#: ../data/kf.glade.h:132
 msgid "Preferences"
-msgstr ""
+msgstr "Einstellungen"
 
-#: data/kf.glade.h:133
+#: ../data/kf.glade.h:133
+#, fuzzy
 msgid "<b><big>Preferences</big></b>"
-msgstr ""
+msgstr "<b>Email Einstellungen</b>"
 
-#: data/kf.glade.h:134
-#: data/kf.glade.h:155
+#: ../data/kf.glade.h:134
+#: ../data/kf.glade.h:155
 msgid "label61"
 msgstr "label61"
 
-#: data/kf.glade.h:135
+#: ../data/kf.glade.h:135
 msgid "<b>General</b>"
-msgstr ""
+msgstr "<b>Allgemein</b>"
 
-#: data/kf.glade.h:136
+#: ../data/kf.glade.h:136
+#, fuzzy
 msgid "<b>Default action</b>"
-msgstr ""
+msgstr "Keine Vorgabeaktion festgelegt"
 
-#: data/kf.glade.h:137
+#: ../data/kf.glade.h:137
 msgid "Double clicking on contact will open a chat window"
 msgstr ""
 
-#: data/kf.glade.h:138
+#: ../data/kf.glade.h:138
+#, fuzzy
 msgid "One-to-one chat"
-msgstr ""
+msgstr "Zum Chat hinzufügen"
 
-#: data/kf.glade.h:139
+#: ../data/kf.glade.h:139
 msgid "Double clicking on contact will open a message composing window"
 msgstr ""
 
-#: data/kf.glade.h:141
+#: ../data/kf.glade.h:141
 msgid "Auto-_popup new chats & messages"
 msgstr ""
 
-#: data/kf.glade.h:142
+#: ../data/kf.glade.h:142
+#, fuzzy
 msgid "Enable _Sound"
-msgstr ""
+msgstr "Audio-Ausgabe aktivieren"
 
-#: data/kf.glade.h:143
+#: ../data/kf.glade.h:143
 msgid "Toggle this if you want all new chats to open in tabs in roster window rather than in new windows"
 msgstr ""
 
-#: data/kf.glade.h:144
+#: ../data/kf.glade.h:144
 msgid "Open chats in _tabs by default"
 msgstr ""
 
-#: data/kf.glade.h:145
+#: ../data/kf.glade.h:145
 msgid "_Minimize roster window to tray on close"
 msgstr ""
 
-#: data/kf.glade.h:146
+#: ../data/kf.glade.h:146
 msgid "Show status texts below contacts"
 msgstr ""
 
-#: data/kf.glade.h:147
+#: ../data/kf.glade.h:147
 msgid " "
 msgstr " "
 
-#: data/kf.glade.h:148
+#: ../data/kf.glade.h:148
+#, fuzzy
 msgid "Enable _Docklet"
-msgstr ""
+msgstr "LDAP aktivieren"
 
-#: data/kf.glade.h:149
-#: data/vcard.glade.h:33
-#: src/gui.c:710
-#: src/settings.c:49
+#: ../data/kf.glade.h:149
+#: ../data/vcard.glade.h:33
+#: ../src/gui.c:711
+#: ../src/settings.c:49
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
-#: data/kf.glade.h:150
+#: ../data/kf.glade.h:150
+#, fuzzy
 msgid "Display time stamps in conversations"
-msgstr ""
+msgstr "Benachrichtigung in Gesprächen anzeigen"
 
-#: data/kf.glade.h:151
+#: ../data/kf.glade.h:151
+#, fuzzy
 msgid "Display messages in IRC-style"
-msgstr ""
+msgstr "Zeige die Status_nachrichten von Kontakten im Roster"
 
-#: data/kf.glade.h:152
+#: ../data/kf.glade.h:152
 msgid "Toggle this option if you want emoticons like ':-)' to be exchanged for their graphical equivalents"
 msgstr ""
 
-#: data/kf.glade.h:153
+#: ../data/kf.glade.h:153
+#, fuzzy
 msgid "_Use emoticons"
-msgstr ""
+msgstr "Emoticons senden"
 
-#: data/kf.glade.h:154
+#: ../data/kf.glade.h:154
+#, fuzzy
 msgid "<b>Sample conversation</b>"
-msgstr ""
+msgstr "/Unterhaltung/Hinzufügen..."
 
-#: data/kf.glade.h:156
-#: data/kf.glade.h:168
+#: ../data/kf.glade.h:156
+#: ../data/kf.glade.h:168
 msgid "Add..."
-msgstr ""
+msgstr "Hinzufügen …"
 
-#: data/kf.glade.h:157
-#: data/kf.glade.h:169
+#: ../data/kf.glade.h:157
+#: ../data/kf.glade.h:169
+#, fuzzy
 msgid "Edit..."
-msgstr ""
+msgstr "Bearbeiten …"
 
-#: data/kf.glade.h:158
+#: ../data/kf.glade.h:158
 msgid "Rename..."
-msgstr ""
+msgstr "Umbenennen …"
 
-#: data/kf.glade.h:159
-#: data/kf.glade.h:170
+#: ../data/kf.glade.h:159
+#: ../data/kf.glade.h:170
 msgid "Remove"
-msgstr ""
+msgstr "Entfernen"
 
 #. {NULL, "Contact List", 9},
-#: data/kf.glade.h:160
-#: src/settings.c:53
+#: ../data/kf.glade.h:160
+#: ../src/settings.c:53
 msgid "Accounts"
 msgstr "Konten"
 
-#: data/kf.glade.h:161
-#: data/kf.glade.h:184
-#: data/kf.glade.h:188
-#: data/kf.glade.h:209
-#: data/new_account.glade.h:20
-#: data/vcard.glade.h:19
-#: data/vcard.glade.h:56
+#: ../data/kf.glade.h:161
+#: ../data/kf.glade.h:184
+#: ../data/kf.glade.h:188
+#: ../data/kf.glade.h:209
+#: ../data/new_account.glade.h:20
+#: ../data/vcard.glade.h:19
+#: ../data/vcard.glade.h:56
 msgid "   "
 msgstr "   "
 
-#: data/kf.glade.h:162
+#: ../data/kf.glade.h:162
 msgid "Set status to Away after"
 msgstr ""
 
-#: data/kf.glade.h:163
-#: data/kf.glade.h:165
+#: ../data/kf.glade.h:163
+#: ../data/kf.glade.h:165
 msgid "minutes"
-msgstr ""
+msgstr "Minuten"
 
-#: data/kf.glade.h:164
+#: ../data/kf.glade.h:164
 msgid "Set status to XA after"
 msgstr ""
 
-#: data/kf.glade.h:166
+#: ../data/kf.glade.h:166
+#, fuzzy
 msgid "Enable AutoAway"
-msgstr ""
+msgstr "LDAP aktivieren"
 
-#: data/kf.glade.h:167
-#: src/settings.c:54
+#: ../data/kf.glade.h:167
+#: ../src/settings.c:54
 msgid "AutoAway"
 msgstr ""
 
-#: data/kf.glade.h:171
-#: src/settings.c:55
+#: ../data/kf.glade.h:171
+#: ../src/settings.c:55
+#, fuzzy
 msgid "Statuses"
-msgstr ""
+msgstr "Status-Meldungen"
 
-#: data/kf.glade.h:172
+#: ../data/kf.glade.h:172
+#, fuzzy
 msgid "User changes status"
-msgstr ""
+msgstr "Benutzer-&Ministatus"
 
-#: data/kf.glade.h:173
+#: ../data/kf.glade.h:173
+#, fuzzy
 msgid "Incoming chat message"
-msgstr ""
+msgstr "Eingehender DCC-Chat"
 
-#: data/kf.glade.h:174
+#: ../data/kf.glade.h:174
+#, fuzzy
 msgid "Incoming normal message"
-msgstr ""
+msgstr "Nachricht geschickt an: %s"
 
-#: data/kf.glade.h:178
+#: ../data/kf.glade.h:178
+#, fuzzy
 msgid "User goes offline"
-msgstr ""
+msgstr "Benutzer ist offline"
 
-#: data/kf.glade.h:180
+#: ../data/kf.glade.h:180
 msgid "Sound"
-msgstr ""
+msgstr "Audio"
 
-#: data/kf.glade.h:181
+#: ../data/kf.glade.h:181
 msgid "Messages from these JIDs will be instantly deleted."
 msgstr ""
 
-#: data/kf.glade.h:182
-#: src/settings.c:58
+#: ../data/kf.glade.h:182
+#: ../src/settings.c:58
+#, fuzzy
 msgid "Block List"
-msgstr ""
+msgstr "Benutzerliste"
 
-#: data/kf.glade.h:183
+#: ../data/kf.glade.h:183
+#, fuzzy
 msgid "<b>Message logging</b>"
-msgstr ""
+msgstr "Logge ein..."
 
-#: data/kf.glade.h:185
+#: ../data/kf.glade.h:185
+#, fuzzy
 msgid "Enable Message Archive"
-msgstr ""
+msgstr "Erstellen des Archivs fehlgeschlagen: %s\n"
 
-#: data/kf.glade.h:186
+#: ../data/kf.glade.h:186
 msgid "Keep additionally logs in text files"
 msgstr ""
 
-#: data/kf.glade.h:187
-#: src/settings.c:59
+#: ../data/kf.glade.h:187
+#: ../src/settings.c:59
 msgid "Privacy"
-msgstr ""
+msgstr "Privatsphäre"
 
-#: data/kf.glade.h:190
+#: ../data/kf.glade.h:190
 msgid "mozilla"
 msgstr "mozilla"
 
-#: data/kf.glade.h:191
+#: ../data/kf.glade.h:191
 msgid "galeon"
 msgstr "galeon"
 
-#: data/kf.glade.h:192
+#: ../data/kf.glade.h:192
 msgid "konqueror"
 msgstr "konqueror"
 
-#: data/kf.glade.h:193
+#: ../data/kf.glade.h:193
 msgid "opera"
 msgstr "opera"
 
-#: data/kf.glade.h:195
+#: ../data/kf.glade.h:195
+#, fuzzy
 msgid "play"
-msgstr ""
+msgstr "Wiedergabe"
 
-#: data/kf.glade.h:196
+#: ../data/kf.glade.h:196
 msgid "artsplay"
 msgstr ""
 
-#: data/kf.glade.h:197
+#: ../data/kf.glade.h:197
 msgid "esdplay"
 msgstr ""
 
-#: data/kf.glade.h:198
+#: ../data/kf.glade.h:198
 msgid "<b>Applications</b>"
-msgstr ""
+msgstr "<b>Anwendungen</b>"
 
-#: data/kf.glade.h:199
+#: ../data/kf.glade.h:199
 msgid "Web Browser"
-msgstr ""
+msgstr "Web-Browser"
 
-#: data/kf.glade.h:200
+#: ../data/kf.glade.h:200
+#, fuzzy
 msgid "Sound Player"
-msgstr ""
+msgstr "Zattoo Player"
 
-#: data/kf.glade.h:201
+#: ../data/kf.glade.h:201
 msgid "Terminal"
 msgstr "Terminal"
 
-#: data/kf.glade.h:203
+#: ../data/kf.glade.h:203
 msgid "xterm"
 msgstr "xterm"
 
-#: data/kf.glade.h:204
+#: ../data/kf.glade.h:204
 msgid "rxvt"
-msgstr ""
+msgstr "rxvt"
 
-#: data/kf.glade.h:205
+#: ../data/kf.glade.h:205
+#, fuzzy
 msgid "Eterm"
-msgstr ""
+msgstr "ETerm"
 
-#: data/kf.glade.h:206
+#: ../data/kf.glade.h:206
 msgid "konsole"
-msgstr ""
+msgstr "Konsole"
 
-#: data/kf.glade.h:207
-#: src/settings.c:60
+#: ../data/kf.glade.h:207
+#: ../src/settings.c:60
+#, fuzzy
 msgid "Advanced"
-msgstr ""
+msgstr "Erweitert"
 
-#: data/kf.glade.h:208
+#: ../data/kf.glade.h:208
+#, fuzzy
 msgid "Enable popup notifications"
-msgstr ""
+msgstr "Benachrichtigung über neue Mails"
 
-#: data/kf.glade.h:210
-#: src/archive_viewer.c:245
+#: ../data/kf.glade.h:210
+#: ../src/archive_viewer.c:245
+#, fuzzy
 msgid "Chats"
-msgstr ""
+msgstr "Chats"
 
-#: data/kf.glade.h:211
+#: ../data/kf.glade.h:211
+#, fuzzy
 msgid "Online contacts"
-msgstr ""
+msgstr "<b>Kontakte anzeigen</b>"
 
-#: data/kf.glade.h:212
+#: ../data/kf.glade.h:212
+#, fuzzy
 msgid "Offline contacts"
-msgstr ""
+msgstr "_Abgemeldete Kontakte anzeigen"
 
-#: data/kf.glade.h:213
-#: src/archive_viewer.c:246
+#: ../data/kf.glade.h:213
+#: ../src/archive_viewer.c:246
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
-#: data/kf.glade.h:214
+#: ../data/kf.glade.h:214
 msgid "label63"
-msgstr ""
+msgstr "label63"
 
-#: data/kf.glade.h:215
-#: data/kf.glade.h:223
+#: ../data/kf.glade.h:215
+#: ../data/kf.glade.h:223
 msgid "_Install"
-msgstr ""
+msgstr "_Install"
 
-#: data/kf.glade.h:216
-#: data/kf.glade.h:224
+#: ../data/kf.glade.h:216
+#: ../data/kf.glade.h:224
 msgid "_Uninstall"
-msgstr ""
+msgstr "_Entfernen"
 
-#: data/kf.glade.h:217
-#: data/kf.glade.h:225
+#: ../data/kf.glade.h:217
+#: ../data/kf.glade.h:225
+#, fuzzy
 msgid "Get _More"
-msgstr ""
+msgstr "_Mehr Information"
 
-#: data/kf.glade.h:218
+#: ../data/kf.glade.h:218
+#, fuzzy
 msgid "Roster Icons"
-msgstr ""
+msgstr "Nur Symbole"
 
-#: data/kf.glade.h:219
+#: ../data/kf.glade.h:219
+#, fuzzy
 msgid "Regular _expression:"
-msgstr ""
+msgstr "Regulärer Ausdruck"
 
-#: data/kf.glade.h:221
+#: ../data/kf.glade.h:221
 msgid "_Iconset:"
 msgstr ""
 
-#: data/kf.glade.h:222
+#: ../data/kf.glade.h:222
+#, fuzzy
 msgid "Transport Icons"
-msgstr ""
+msgstr "Nur Symbole"
 
-#: data/kf.glade.h:226
+#: ../data/kf.glade.h:226
+#, fuzzy
 msgid "Emoticons"
-msgstr ""
+msgstr "Emoticons:"
 
-#: data/kf.glade.h:227
+#: ../data/kf.glade.h:227
 msgid "label65"
-msgstr ""
+msgstr "label65"
 
-#: data/kf.glade.h:228
+#: ../data/kf.glade.h:228
 msgid "Change Password"
-msgstr ""
+msgstr "Passwort ändern"
 
-#: data/kf.glade.h:229
+#: ../data/kf.glade.h:229
+#, fuzzy
 msgid "<b><big>Change Password</big></b>"
-msgstr ""
+msgstr "Passwortänderung abgebrochen.\n"
 
-#: data/kf.glade.h:230
+#: ../data/kf.glade.h:230
 msgid "Old Password"
-msgstr ""
+msgstr "Altes Passwort"
 
-#: data/kf.glade.h:231
+#: ../data/kf.glade.h:231
 msgid "New Password"
-msgstr ""
+msgstr "Neues Passwort"
 
-#: data/kf.glade.h:232
+#: ../data/kf.glade.h:232
 msgid "Retype Password"
-msgstr ""
+msgstr "Passwort wiederholen"
 
-#: data/kf.glade.h:237
+#: ../data/kf.glade.h:237
 msgid "Enter password:"
-msgstr ""
+msgstr "Passwort eingeben:"
 
-#: data/kf.glade.h:240
+#: ../data/kf.glade.h:240
 #, c-format
 msgid ""
 "version %s\n"
 "© 2004 Przemysław Sitek"
 msgstr ""
+"version %s\n"
+"© 2004 Przemysław Sitek"
 
-#: data/msg.glade.h:8
+#: ../data/msg.glade.h:8
+#, fuzzy
 msgid "<b>To:</b>"
-msgstr ""
+msgstr "Nach"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/muc.glade.h:7
+#: ../data/muc.glade.h:7
 msgid "Conference"
-msgstr ""
+msgstr "Konferenz"
 
-#: data/muc.glade.h:8
+#: ../data/muc.glade.h:8
 msgid "_Menu"
-msgstr ""
+msgstr "_Menü"
 
-#: data/muc.glade.h:9
+#: ../data/muc.glade.h:9
 msgid "Topic:"
-msgstr ""
+msgstr "Thema:"
 
-#: data/muc.glade.h:11
+#: ../data/muc.glade.h:11
+#, fuzzy
 msgid "Change topic"
-msgstr ""
+msgstr "_Topic ändern"
 
-#: data/muc.glade.h:12
+#: ../data/muc.glade.h:12
+#, fuzzy
 msgid "Update topic"
-msgstr ""
+msgstr "_Topic ändern"
 
-#: data/muc.glade.h:13
+#: ../data/muc.glade.h:13
 msgid "Cancel"
-msgstr ""
+msgstr "Abbruch"
 
-#: data/muc.glade.h:14
-#: data/muc.glade.h:33
+#: ../data/muc.glade.h:14
+#: ../data/muc.glade.h:33
+#, fuzzy
 msgid "Configure room"
-msgstr ""
+msgstr "Raum _konfigurieren"
 
-#: data/muc.glade.h:19
+#: ../data/muc.glade.h:19
 msgid "Kick"
-msgstr ""
+msgstr "Kicken"
 
-#: data/muc.glade.h:20
+#: ../data/muc.glade.h:20
 msgid "Ban"
-msgstr ""
+msgstr "Sperren"
 
-#: data/muc.glade.h:21
+#: ../data/muc.glade.h:21
+#, fuzzy
 msgid "Grant"
-msgstr ""
+msgstr "Zugriff immer erlauben"
 
-#: data/muc.glade.h:22
-#: data/muc.glade.h:28
+#: ../data/muc.glade.h:22
+#: ../data/muc.glade.h:28
 msgid "Voice"
-msgstr ""
+msgstr "Stimme"
 
-#: data/muc.glade.h:23
-#: data/muc.glade.h:29
+#: ../data/muc.glade.h:23
+#: ../data/muc.glade.h:29
 msgid "Membership"
-msgstr ""
+msgstr "Mitgliedschaft"
 
-#: data/muc.glade.h:24
-#: data/muc.glade.h:30
+#: ../data/muc.glade.h:24
+#: ../data/muc.glade.h:30
+#, fuzzy
 msgid "Moderator Privileges"
-msgstr ""
+msgstr "Zugriffsrechte"
 
-#: data/muc.glade.h:25
-#: data/muc.glade.h:31
+#: ../data/muc.glade.h:25
+#: ../data/muc.glade.h:31
+#, fuzzy
 msgid "Ownership"
-msgstr ""
+msgstr "Ändern des Eigentümers von %s"
 
-#: data/muc.glade.h:26
-#: data/muc.glade.h:32
+#: ../data/muc.glade.h:26
+#: ../data/muc.glade.h:32
+#, fuzzy
 msgid "Administrative Privileges"
-msgstr ""
+msgstr "Zugriffsrechte"
 
-#: data/muc.glade.h:27
+#: ../data/muc.glade.h:27
 msgid "Revoke"
-msgstr ""
+msgstr "Widerrufen"
 
-#: data/muc.glade.h:34
+#: ../data/muc.glade.h:34
+#, fuzzy
 msgid "<i>Fetching data. Please wait...</i>"
 msgstr ""
+"\n"
+".jigdo-Daten werden heruntergeladen - bitte warten..."
 
-#: data/muc.glade.h:35
+#: ../data/muc.glade.h:35
 msgid "Find"
 msgstr "Finde"
 
-#: data/muc.glade.h:36
+#: ../data/muc.glade.h:36
 msgid "Find:"
 msgstr "Find:"
 
-#: data/muc.glade.h:38
+#: ../data/muc.glade.h:38
+#, fuzzy
 msgid "Change _nick"
-msgstr ""
+msgstr "Kann den Spitznamen nicht ändern"
 
-#: data/muc.glade.h:39
+#: ../data/muc.glade.h:39
 msgid "URL Grabber"
-msgstr ""
+msgstr "URL-Grabber"
 
-#: data/muc_join.glade.h:9
+#: ../data/muc_join.glade.h:9
 msgid "_Room"
 msgstr "_Raum"
 
-#: data/muc_join.glade.h:10
+#: ../data/muc_join.glade.h:10
 msgid "_Nickname"
 msgstr "_Nickname"
 
-#: data/muc_join.glade.h:16
+#: ../data/muc_join.glade.h:16
+#, fuzzy
 msgid "_Join conference"
-msgstr ""
+msgstr "Konferenz geschlossen"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/new_account.glade.h:7
+#: ../data/new_account.glade.h:7
+#, fuzzy
 msgid "Register new account"
-msgstr ""
+msgstr "Registrierung eines neuen Kontos von %s"
 
-#: data/new_account.glade.h:8
+#: ../data/new_account.glade.h:8
+#, fuzzy
 msgid "<b><big>Register account</big></b>"
-msgstr ""
+msgstr "Registrierung eines neuen Kontos von %s"
 
-#: data/new_account.glade.h:12
+#: ../data/new_account.glade.h:12
+#, fuzzy
 msgid "Password (_retype)"
-msgstr ""
+msgstr "Passwort (nochmal)"
 
-#: data/new_account.glade.h:13
+#: ../data/new_account.glade.h:13
+#, fuzzy
 msgid "_Add to my accounts"
-msgstr ""
+msgstr "um meinen Status zu sehen"
 
-#: data/new_account.glade.h:19
+#: ../data/new_account.glade.h:19
 msgid "_Name"
 msgstr "_Name"
 
-#: data/new_account.glade.h:21
+#: ../data/new_account.glade.h:21
+#, fuzzy
 msgid "Sa_ve password"
-msgstr ""
+msgstr "Optionen _speichern"
 
-#: data/register.glade.h:8
+#: ../data/register.glade.h:8
 msgid "Enter JabberID of an agent you want to register in:"
 msgstr ""
 
-#: data/register.glade.h:9
-#: data/search.glade.h:10
+#: ../data/register.glade.h:9
+#: ../data/search.glade.h:10
 msgid "users.jabber.org"
-msgstr ""
+msgstr "users.jabber.org"
 
-#: data/register.glade.h:12
+#: ../data/register.glade.h:12
 msgid ""
 "<b>Note</b>\n"
 "You have already been registered in this agent!"
 msgstr ""
 
-#: data/register.glade.h:14
-#: data/search.glade.h:11
+#: ../data/register.glade.h:14
+#: ../data/search.glade.h:11
 msgid "label2"
 msgstr "label2"
 
-#: data/search.glade.h:8
+#: ../data/search.glade.h:8
+#, fuzzy
 msgid "Which directory you want to search in?"
-msgstr ""
+msgstr "In einem Terminal gehen Sie in das Verzeichnis des Dokumenten, welches Sie übersetzen wollen:"
 
-#: data/search.glade.h:12
+#: ../data/search.glade.h:12
+#, fuzzy
 msgid "<i>Fetching form. Please wait...</i>"
-msgstr ""
+msgstr "LVM wird neu geladen. Bitte warten."
 
-#: data/search.glade.h:13
+#: ../data/search.glade.h:13
 msgid "label9"
 msgstr "label9"
 
-#: data/search.glade.h:14
+#: ../data/search.glade.h:14
 msgid "label3"
 msgstr "label3"
 
-#: data/search.glade.h:15
+#: ../data/search.glade.h:15
+#, fuzzy
 msgid "<i>Waiting for results...</i>"
-msgstr ""
+msgstr "Suchergebnisse für \"%s\""
 
-#: data/search.glade.h:16
+#: ../data/search.glade.h:16
 msgid "label10"
 msgstr "label10"
 
-#: data/search.glade.h:17
+#: ../data/search.glade.h:17
+#, fuzzy
 msgid "<b>Search results</b>"
-msgstr ""
+msgstr "Suche _nach"
 
-#: data/search.glade.h:18
+#: ../data/search.glade.h:18
+#, fuzzy
 msgid "Information on user"
-msgstr ""
+msgstr "Benutzer-_Informationen cachen"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/status.glade.h:7
+#: ../data/status.glade.h:7
 msgid "Edit Status"
-msgstr ""
+msgstr "Status ändern"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/subscribe.glade.h:7
-#: src/popup_menu.c:73
+#: ../data/subscribe.glade.h:7
+#: ../src/popup_menu.c:73
 msgid "Question"
 msgstr "Frage"
 
-#: data/subscribe.glade.h:8
+#: ../data/subscribe.glade.h:8
 #, c-format
 msgid "User <b>%s</b> would like to add you to his/her roster. Do you agree?"
 msgstr ""
 
-#: data/subscribe.glade.h:9
+#: ../data/subscribe.glade.h:9
+#, fuzzy
 msgid "Add to contact list"
-msgstr ""
+msgstr "Füge Gebietsschema zur Liste hinzu"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/vcard.glade.h:7
-#, c-format
+#: ../data/vcard.glade.h:7
+#, fuzzy, c-format
 msgid "Properties of  '%s'"
-msgstr ""
+msgstr "%s Eigenschaften"
 
-#: data/vcard.glade.h:8
+#: ../data/vcard.glade.h:8
+#, fuzzy
 msgid "<b><big>Contact Properties</big></b>"
-msgstr ""
+msgstr "Datum & Uhrzeit Einstellungen"
 
-#: data/vcard.glade.h:9
+#: ../data/vcard.glade.h:9
+#, fuzzy
 msgid "<b>Nickname</b>"
-msgstr ""
+msgstr "Spitzname"
 
-#: data/vcard.glade.h:10
+#: ../data/vcard.glade.h:10
 msgid "  "
 msgstr "  "
 
-#: data/vcard.glade.h:12
+#: ../data/vcard.glade.h:12
 msgid "Change"
-msgstr ""
+msgstr "Ändern"
 
-#: data/vcard.glade.h:13
+#: ../data/vcard.glade.h:13
+#, fuzzy
 msgid "<b>Subscription</b>"
-msgstr ""
+msgstr "Abonnement"
 
-#: data/vcard.glade.h:14
+#: ../data/vcard.glade.h:14
+#, fuzzy
 msgid "<b>JabberID</b>"
-msgstr ""
+msgstr "Jabber-ID:"
 
-#: data/vcard.glade.h:15
+#: ../data/vcard.glade.h:15
 msgid "..."
 msgstr "..."
 
-#: data/vcard.glade.h:16
+#: ../data/vcard.glade.h:16
+#, fuzzy
 msgid "<b>none|both|from|to</b> - blah blah blah..."
-msgstr ""
+msgstr "--from-file und --to-file sind beide angegeben."
 
-#: data/vcard.glade.h:17
+#: ../data/vcard.glade.h:17
 msgid "Contact"
 msgstr "Kontakt"
 
-#: data/vcard.glade.h:18
+#: ../data/vcard.glade.h:18
+#, fuzzy
 msgid "<b>Personal</b>"
-msgstr ""
+msgstr "Persönlich"
 
-#: data/vcard.glade.h:20
+#: ../data/vcard.glade.h:20
 msgid "Full Name"
 msgstr "Vollständiger Name"
 
-#: data/vcard.glade.h:21
+#: ../data/vcard.glade.h:21
 msgid "Nickname"
 msgstr "Nickname"
 
-#: data/vcard.glade.h:22
+#: ../data/vcard.glade.h:22
 msgid "Birthday"
 msgstr "Geburtstag"
 
-#: data/vcard.glade.h:23
+#: ../data/vcard.glade.h:23
 msgid "<b>Contact</b>"
 msgstr "<b>kontakt</b>"
 
-#: data/vcard.glade.h:24
+#: ../data/vcard.glade.h:24
 msgid "E-Mail"
 msgstr "E-Mail"
 
-#: data/vcard.glade.h:25
+#: ../data/vcard.glade.h:25
 msgid "Phone"
 msgstr "Telefon-Nummer"
 
-#: data/vcard.glade.h:26
+#: ../data/vcard.glade.h:26
 msgid "Homepage"
 msgstr "Homepage"
 
-#: data/vcard.glade.h:34
+#: ../data/vcard.glade.h:34
 msgid "Street"
 msgstr "Strasse"
 
-#: data/vcard.glade.h:35
+#: ../data/vcard.glade.h:35
 msgid "City"
 msgstr "Stadt"
 
-#: data/vcard.glade.h:36
+#: ../data/vcard.glade.h:36
 #, fuzzy
 msgid "State"
-msgstr "Bundesland/Kanton"
+msgstr "Status"
 
-#: data/vcard.glade.h:37
+#: ../data/vcard.glade.h:37
 msgid "Postal Code"
 msgstr "Postleitzahl"
 
-#: data/vcard.glade.h:38
+#: ../data/vcard.glade.h:38
 msgid "Country"
 msgstr "Land"
 
-#: data/vcard.glade.h:45
+#: ../data/vcard.glade.h:45
 msgid "Location"
-msgstr ""
+msgstr "Ort"
 
-#: data/vcard.glade.h:47
+#: ../data/vcard.glade.h:47
 msgid "Unit"
-msgstr ""
+msgstr "Einheit"
 
-#: data/vcard.glade.h:48
+#: ../data/vcard.glade.h:48
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
-#: data/vcard.glade.h:49
+#: ../data/vcard.glade.h:49
 msgid "Role"
-msgstr ""
+msgstr "Rolle"
 
-#: data/vcard.glade.h:54
+#: ../data/vcard.glade.h:54
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
-#: data/vcard.glade.h:55
+#: ../data/vcard.glade.h:55
+#, fuzzy
 msgid "About contact"
-msgstr ""
+msgstr "Kontaktieren Sie uns"
 
-#: data/vcard.glade.h:57
+#: ../data/vcard.glade.h:57
 msgid "<b>Software</b>"
 msgstr "<b>Software</b>"
 
-#: data/vcard.glade.h:58
+#: ../data/vcard.glade.h:58
 msgid "Client Name"
-msgstr ""
+msgstr "Clientname"
 
-#: data/vcard.glade.h:59
+#: ../data/vcard.glade.h:59
 msgid "Client Version"
 msgstr "Client-Version"
 
-#: data/vcard.glade.h:60
+#: ../data/vcard.glade.h:60
 msgid "Operating System"
 msgstr "Betriebssystem"
 
-#: data/vcard.glade.h:61
-#: data/vcard.glade.h:62
-#: data/vcard.glade.h:63
+#: ../data/vcard.glade.h:61
+#: ../data/vcard.glade.h:62
+#: ../data/vcard.glade.h:63
 msgid "?"
 msgstr "?"
 
-#: data/vcard.glade.h:64
+#: ../data/vcard.glade.h:64
 msgid "Computer"
 msgstr "Computer"
 
-#: src/accounts.c:114
+#: ../src/accounts.c:114
+#, fuzzy
 msgid "[none]"
-msgstr ""
+msgstr "[keine]"
 
-#: src/accounts.c:149
-#: src/accounts.c:708
+#: ../src/accounts.c:149
+#: ../src/accounts.c:708
+#, fuzzy
 msgid "Show more options"
-msgstr ""
+msgstr "Erweiterte Optionen"
 
-#: src/accounts.c:149
-#: src/accounts.c:708
+#: ../src/accounts.c:149
+#: ../src/accounts.c:708
+#, fuzzy
 msgid "Hide more oprions"
-msgstr ""
+msgstr "Ausführlicher verhalten"
 
-#: src/accounts.c:439
-#: src/accounts.c:643
-#: src/accounts.c:737
-#: src/popup_group.c:130
+#: ../src/accounts.c:439
+#: ../src/accounts.c:643
+#: ../src/accounts.c:737
+#: ../src/popup_group.c:130
+#, fuzzy
 msgid "Enter name..."
-msgstr ""
+msgstr "Füge Namen ein"
 
-#: src/accounts.c:446
-#: src/accounts.c:650
-#: src/accounts.c:744
+#: ../src/accounts.c:446
+#: ../src/accounts.c:650
+#: ../src/accounts.c:744
+#, fuzzy
 msgid "New account name:"
-msgstr ""
+msgstr "Ungültiger Kontoname"
 
-#: src/accounts.c:451
-#: src/accounts.c:655
-#: src/popup_group.c:142
-#: src/settings_statuses.c:194
+#: ../src/accounts.c:451
+#: ../src/accounts.c:655
+#: ../src/popup_group.c:142
+#: ../src/settings_statuses.c:194
+#, fuzzy
 msgid "Unnamed"
-msgstr ""
+msgstr "Unbenannt"
 
-#: src/accounts.c:515
+#: ../src/accounts.c:515
 msgid "Autoconnect"
 msgstr ""
 
-#: src/archive_viewer.c:190
+#: ../src/archive_viewer.c:190
 msgid "Message Archive has been turned off. Go to Settings window to change that."
 msgstr ""
 
-#: src/archive_viewer.c:222
+#: ../src/archive_viewer.c:222
 msgid "Folders"
-msgstr ""
+msgstr "Ordner"
 
-#: src/archive_viewer.c:247
+#: ../src/archive_viewer.c:247
 msgid "Inbox"
-msgstr ""
+msgstr "Eingang"
 
-#: src/archive_viewer.c:248
+#: ../src/archive_viewer.c:248
 msgid "Outbox"
-msgstr ""
+msgstr "Ausgang"
 
-#: src/archive_viewer.c:316
-#: src/settings.c:50
+#: ../src/archive_viewer.c:316
+#: ../src/settings.c:50
 msgid "Conversations"
-msgstr ""
+msgstr "Unterhaltungen"
 
-#: src/archive_viewer.c:676
-#: src/chat.c:419
+#: ../src/archive_viewer.c:676
+#: ../src/chat.c:419
 msgid "Me"
-msgstr ""
+msgstr "Ich"
 
-#: src/archive_viewer.c:711
+#: ../src/archive_viewer.c:711
 msgid "Subject"
-msgstr ""
+msgstr "Betreff"
 
-#: src/archive_viewer.c:717
+#: ../src/archive_viewer.c:717
 msgid "JID"
 msgstr "JID"
 
-#: src/archive_viewer.c:723
+#: ../src/archive_viewer.c:723
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
-#: src/archive_viewer.c:794
+#: ../src/archive_viewer.c:794
 msgid "No subject"
 msgstr "Kein Betreff"
 
-#: src/browse.c:504
+#: ../src/browse.c:504
+#, fuzzy
 msgid "This JID can't be browsed..."
-msgstr ""
+msgstr "Diese Datei kann nicht geöffnet werden:"
 
-#: src/change_password.c:71
+#: ../src/change_password.c:71
+#, fuzzy
 msgid "Both passwords must be the same!"
-msgstr ""
+msgstr "Ich bedaure. Matrizen müssen gleiche Dimension haben!"
 
-#: src/change_password.c:74
+#: ../src/change_password.c:74
+#, fuzzy
 msgid "You have entered bad password!"
-msgstr ""
+msgstr "Fehlerhafte Antwort nach Passwort."
 
-#: src/change_password.c:105
+#: ../src/change_password.c:105
 msgid "An error occured while trying to change password."
 msgstr ""
 
-#: src/change_password.c:107
+#: ../src/change_password.c:107
+#, fuzzy
 msgid "Your password has been succesfully changed."
 msgstr ""
+"\n"
+"Das NIS Passwort wurde geändert auf »%s«.\n"
+"\n"
 
-#: src/chat.c:639
+#: ../src/chat.c:639
 #, c-format
 msgid "User %s has been blocked. You won't receive any messages from him. To undo this open Preferences window and go to \"Block List\"."
 msgstr ""
 
-#: src/chat.c:789
+#: ../src/chat.c:789
 #, c-format
 msgid "%s (%d)"
 msgstr "%s (%d)"
 
-#: src/emoticons.c:345
+#: ../src/emoticons.c:345
+#, fuzzy
 msgid "Open link"
-msgstr ""
+msgstr "_Link öffnen"
 
-#: src/events.c:75
-#: src/events.c:178
+#: ../src/events.c:75
+#: ../src/events.c:178
 #, c-format
 msgid "%s is now %s"
 msgstr "%s ist nun %s"
 
-#: src/events.c:170
-#, c-format
+#: ../src/events.c:170
+#, fuzzy, c-format
 msgid "Message from %s"
-msgstr ""
+msgstr "Nachricht von %s"
 
-#: src/events.c:170
-#, c-format
+#: ../src/events.c:170
+#, fuzzy, c-format
 msgid "Chat with %s"
-msgstr ""
+msgstr "register:  Für einen Chatraum anmelden."
 
-#: src/gui.c:130
+#: ../src/gui.c:130
 msgid "kf homepage"
-msgstr ""
+msgstr "kf-Homepage"
 
-#: src/gui.c:131
+#: ../src/gui.c:131
+#, fuzzy
 msgid "kf bug tracker"
-msgstr ""
+msgstr "Die Fehlerverwaltung öffnen"
 
-#: src/gui.c:894
+#: ../src/gui.c:895
+#, fuzzy
 msgid "You have been disconnected..."
-msgstr ""
+msgstr "Sie wurden vom Server getrennt"
 
-#: src/gui.c:899
+#: ../src/gui.c:900
 msgid "Disconnected..."
-msgstr ""
+msgstr "Getrennt ..."
 
-#: src/gui_status.c:78
-#, c-format
+#: ../src/gui_status.c:78
+#, fuzzy, c-format
 msgid "Last #%d"
-msgstr ""
+msgstr "Letzte"
 
-#: src/jabber_connection.c:121
+#: ../src/jabber_connection.c:121
+#, fuzzy
 msgid "Logging in..."
-msgstr ""
+msgstr "Logge ein..."
 
-#: src/jabber_connection.c:125
+#: ../src/jabber_connection.c:125
+#, fuzzy
 msgid "I can't connect!!!"
-msgstr ""
+msgstr "Keine Verbindung hergestellt"
 
-#: src/jabber_connection.c:148
+#: ../src/jabber_connection.c:148
+#, fuzzy
 msgid "I have failed to log in..."
-msgstr ""
+msgstr "Anmeldeversuch ist fehlgeschlagen."
 
-#: src/jabber_connection.c:221
+#: ../src/jabber_connection.c:221
+#, fuzzy
 msgid "Connecting..."
-msgstr ""
+msgstr "Verbindung wird hergestellt …"
 
-#: src/jabber_connection.c:559
+#: ../src/jabber_connection.c:559
+#, fuzzy
 msgid "available"
-msgstr ""
+msgstr "Verfügbar"
 
-#: src/jabber_connection.c:560
+#: ../src/jabber_connection.c:560
+#, fuzzy
 msgid "free for chat"
-msgstr ""
+msgstr "Bereit zum Chatten"
 
-#: src/jabber_connection.c:561
+#: ../src/jabber_connection.c:561
+#, fuzzy
 msgid "away"
-msgstr ""
+msgstr "Abwesend"
 
-#: src/jabber_connection.c:562
+#: ../src/jabber_connection.c:562
+#, fuzzy
 msgid "eXtended away"
-msgstr ""
+msgstr "Abwesend (erweitert)"
 
-#: src/jabber_connection.c:563
+#: ../src/jabber_connection.c:563
 msgid "busy"
 msgstr "beschäftigt"
 
-#: src/jabber_connection.c:564
+#: ../src/jabber_connection.c:564
 msgid "invisible"
 msgstr "unsichtbar"
 
-#: src/jabber_connection.c:565
+#: ../src/jabber_connection.c:565
 msgid "offline"
 msgstr "offline"
 
-#: src/jabber_connection.c:712
+#: ../src/jabber_connection.c:712
+#, fuzzy
 msgid "You have to be connected to do that..."
-msgstr ""
+msgstr "Sie werden ohne OpenPGP mit %s verbunden."
 
-#: src/main.c:129
+#: ../src/main.c:129
+#, c-format
 msgid ""
 "kf\n"
 "--\n"
@@ -1665,153 +1820,173 @@ msgstr ""
 "\n"
 "(c) 2003 Przemyslaw Sitek"
 
-#: src/main.c:133
+#: ../src/main.c:133
 #, c-format
 msgid "kf version %s\n"
-msgstr ""
+msgstr "kf version %s\n"
 
-#: src/message.c:139
+#: ../src/message.c:139
 msgid "(no topic)"
-msgstr ""
+msgstr "(kein Thema gesetzt)"
 
-#: src/message.c:164
+#: ../src/message.c:164
+#, fuzzy
 msgid ""
 "\n"
 "\n"
 "Attached URLs\n"
-msgstr ""
+msgstr "Eingabe URLs (Feed)"
 
-#: src/muc.c:815
-#, c-format
+#: ../src/muc.c:815
+#, fuzzy, c-format
 msgid "Error #%d: %s\n"
-msgstr ""
+msgstr "Fehler"
 
-#: src/muc.c:997
-#, c-format
+#: ../src/muc.c:997
+#, fuzzy, c-format
 msgid "/me has changed topic to '%s'"
-msgstr ""
+msgstr "%C22*%O$t$1 hat das Thema geändert zu: $2"
 
-#: src/muc.c:1362
+#: ../src/muc.c:1362
 msgid "You are forbidden to configure this room"
 msgstr ""
 
-#: src/muc.c:1368
-#: src/new_account.c:180
+#: ../src/muc.c:1368
+#: ../src/new_account.c:180
 #, c-format
 msgid "Error #%s: %s"
-msgstr ""
+msgstr "Fehler #%s: %s"
 
-#: src/muc.c:1373
+#: ../src/muc.c:1373
+#, fuzzy
 msgid "An error occurred while trying to fetch form"
-msgstr ""
+msgstr "Beim Versuch, »%s« zu öffnen, ist ein unbekannter Fehler aufgetreten."
 
-#: src/muc.c:1452
+#: ../src/muc.c:1452
+#, fuzzy
 msgid "Error while submitting data..."
-msgstr ""
+msgstr "Während des Sendens der Daten ist ein Fehler aufgetreten."
 
-#: src/muc.c:1454
+#: ../src/muc.c:1454
+#, fuzzy
 msgid "Room has been configured."
-msgstr ""
+msgstr "Die Gruppe: '%s' wurde erstellt."
 
-#: src/muc.c:1814
+#: ../src/muc.c:1814
+#, fuzzy
 msgid "Are you sure you want to leave this conference?"
-msgstr ""
+msgstr "Wollen Sie dieses Qun wirklich verlassen?"
 
-#: src/muc_join.c:263
+#: ../src/muc_join.c:263
 msgid "Bookmarks"
 msgstr "Lesezeichen"
 
-#: src/new_account.c:194
+#: ../src/new_account.c:194
+#, fuzzy
 msgid "Account registered."
-msgstr ""
+msgstr "Neues Gadu-Gadu-Konto angelegt"
 
-#: src/popup_group.c:55
+#: ../src/popup_group.c:55
+#, fuzzy
 msgid "New group..."
-msgstr ""
+msgstr "Neue Gruppe"
 
-#: src/popup_group.c:137
+#: ../src/popup_group.c:137
+#, fuzzy
 msgid "New group name:"
-msgstr ""
+msgstr "Name der neuen Gruppe"
 
-#: src/popup_menu.c:79
+#: ../src/popup_menu.c:79
 msgid "Dou you want to remove this contact?"
 msgstr ""
 
-#: src/popup_menu.c:83
+#: ../src/popup_menu.c:83
+#, fuzzy
 msgid "_Deny subscription to this contact"
-msgstr ""
+msgstr "Fügt neuen Kontakt zu diesem Konto hinzu"
 
-#: src/register.c:136
-#: src/register.c:277
-#, c-format
+#: ../src/register.c:136
+#: ../src/register.c:277
+#, fuzzy, c-format
 msgid ""
 "An error occured while trying to register:\n"
 "#%d: %s"
-msgstr ""
+msgstr "Beim Versuch zu Drucken ist ein Fehler aufgetreten:"
 
-#: src/register.c:154
-#: src/register.c:197
-#: src/search.c:197
+#: ../src/register.c:154
+#: ../src/register.c:197
+#: ../src/search.c:197
 msgid "Agent didn't supply registration form..."
 msgstr ""
 
-#: src/register.c:288
+#: ../src/register.c:288
+#, fuzzy
 msgid "Registration successful"
-msgstr ""
+msgstr "Registrierung erfolgreich"
 
-#: src/settings.c:51
+#: ../src/settings.c:51
+#, fuzzy
 msgid "Events"
-msgstr ""
+msgstr "Ereignisse"
 
-#: src/settings.c:56
+#: ../src/settings.c:56
+#, fuzzy
 msgid "Icons"
-msgstr ""
+msgstr "Symbole"
 
-#: src/settings.c:57
+#: ../src/settings.c:57
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "Klänge"
 
-#: src/settings.c:421
+#: ../src/settings.c:421
+#, fuzzy
 msgid "Choose file"
-msgstr ""
+msgstr "Datei wählen"
 
-#: src/settings_blacklist.c:120
+#: ../src/settings_blacklist.c:120
+#, fuzzy
 msgid "Enter JID here"
-msgstr ""
+msgstr "Text hier eingeben"
 
-#: src/settings_statuses.c:146
+#: ../src/settings_statuses.c:146
+#, fuzzy
 msgid "Do you really want to remove this status?"
-msgstr ""
+msgstr "Möchten Sie diesen Schlüssel wirklich entfernen? (j/N) "
 
-#: src/settings_statuses.c:195
+#: ../src/settings_statuses.c:195
+#, fuzzy
 msgid "Enter text here"
-msgstr ""
+msgstr "Text hier eingeben"
 
-#: src/vcard.c:337
+#: ../src/vcard.c:337
 msgid "<b>none</b> - None of you can see each other's presence"
 msgstr ""
 
-#: src/vcard.c:338
+#: ../src/vcard.c:338
 msgid "<b>from</b> - They can see your presence, but you can't see theirs"
 msgstr ""
 
-#: src/vcard.c:339
+#: ../src/vcard.c:339
 msgid "<b>to</b> - You can see their presence, but they can't see yours"
 msgstr ""
 
-#: src/vcard.c:340
+#: ../src/vcard.c:340
 msgid "<b>both</b> - Both of you can see each other's presence"
 msgstr ""
 
-#: src/vcard.c:341
+#: ../src/vcard.c:341
+#, fuzzy
 msgid "<b>unknown</b> - Presence is unknown"
-msgstr ""
+msgstr "ist eine unbekannte Einstellung"
 
-#: src/vcard.c:454
+#: ../src/vcard.c:454
+#, fuzzy
 msgid "There was an error!"
-msgstr ""
+msgstr "Bei %s gab es einen Fehler."
 
-#: src/vcard.c:456
+#: ../src/vcard.c:456
+#, fuzzy
 msgid "vCard updated successfully!"
-msgstr ""
+msgstr "passwd: Passwort erfolgreich geändert\n"
 
