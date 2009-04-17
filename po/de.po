@@ -1,14 +1,14 @@
 # German translation of kf.
 # Copyright (C) 2008, kf
 # This file is distributed under the same license as the kf package.
-# Fabian Affolter <fab@fedoraproject.org>, 2008.
+# Fabian Affolter <fab@fedoraproject.org>, 2008-2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-30 19:48+0000\n"
-"PO-Revision-Date: 2009-03-30 22:35+0100\n"
+"POT-Creation-Date: 2009-04-17 08:38+0000\n"
+"PO-Revision-Date: 2009-04-17 11:42+0100\n"
 "Last-Translator: Fabian Affolter <fab@fedoraproject.org>\n"
 "Language-Team: German <fedora-trans-de@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -245,12 +245,10 @@ msgid "Tab position"
 msgstr "Reiterposition"
 
 #: ../data/chat.glade.h:21
-#, fuzzy
 msgid "Top"
 msgstr "Oben"
 
 #: ../data/chat.glade.h:22
-#, fuzzy
 msgid "Bottom"
 msgstr "Unten"
 
@@ -269,7 +267,6 @@ msgstr "Rechts"
 #.
 #: ../data/dock.glade.h:7
 #: ../data/msg.glade.h:7
-#, fuzzy
 msgid "New Message"
 msgstr "Neue Nachricht"
 
@@ -357,7 +354,6 @@ msgid "View"
 msgstr "Ansicht"
 
 #: ../data/kf.glade.h:12
-#, fuzzy
 msgid "Toolbar"
 msgstr "Werkzeugleiste"
 
@@ -404,9 +400,8 @@ msgid "Browse Agents..."
 msgstr "Wähle Kartendatei"
 
 #: ../data/kf.glade.h:23
-#, fuzzy
 msgid "Search for users..."
-msgstr "Suche nach Benutzern..."
+msgstr "Suche nach Benutzern ..."
 
 #: ../data/kf.glade.h:24
 #, fuzzy
@@ -414,9 +409,8 @@ msgid "Register In Service..."
 msgstr "Kann den Service nicht registrieren"
 
 #: ../data/kf.glade.h:25
-#, fuzzy
 msgid "Change Password..."
-msgstr "Passwort ändern..."
+msgstr "Passwort ändern ..."
 
 #: ../data/kf.glade.h:26
 #, fuzzy
@@ -471,18 +465,16 @@ msgstr "Vertrauenswürdige Dienste:"
 #.
 #: ../data/kf.glade.h:35
 #: ../data/search.glade.h:7
-#, fuzzy
 msgid "Search for users"
-msgstr "Suche nach Benutzern..."
+msgstr "Suche nach Benutzern"
 
 #: ../data/kf.glade.h:36
 msgid "Find Users"
 msgstr "Benutzer finden"
 
 #: ../data/kf.glade.h:37
-#, fuzzy
 msgid "Buddies"
-msgstr "Buddys"
+msgstr "Freunde"
 
 #: ../data/kf.glade.h:38
 #, fuzzy
@@ -542,9 +534,8 @@ msgid "Check this if you want your password to be saved. Otherwise, you will be 
 msgstr ""
 
 #: ../data/kf.glade.h:59
-#, fuzzy
 msgid "Sa_ve Password"
-msgstr "Optionen _speichern"
+msgstr "Passwort _speichern"
 
 #: ../data/kf.glade.h:60
 msgid "Resource"
@@ -556,9 +547,8 @@ msgid "Connection using SSL"
 msgstr "SSL Verbindung unter Verwendung von %s (%s)"
 
 #: ../data/kf.glade.h:64
-#, fuzzy
 msgid "Home"
-msgstr "Home"
+msgstr "Heim"
 
 #: ../data/kf.glade.h:65
 msgid "Work"
@@ -570,12 +560,10 @@ msgstr "Schule"
 
 #: ../data/kf.glade.h:67
 #: ../data/kf.glade.h:73
-#, fuzzy
 msgid "Port"
 msgstr "Port"
 
 #: ../data/kf.glade.h:68
-#, fuzzy
 msgid "Priority"
 msgstr "Priorität"
 
@@ -638,9 +626,8 @@ msgid "<b>From</b>"
 msgstr "<b>Von</b>"
 
 #: ../data/kf.glade.h:89
-#, fuzzy
 msgid "<b>Subject</b>"
-msgstr "Betreff:"
+msgstr "<b>Betreff</b>"
 
 #: ../data/kf.glade.h:90
 msgid "<b>Date</b>"
@@ -651,16 +638,14 @@ msgid "Reply"
 msgstr "Antwort"
 
 #: ../data/kf.glade.h:92
-#, fuzzy
 msgid "Next"
-msgstr "Vor"
+msgstr "Nächste"
 
 #: ../data/kf.glade.h:93
 msgid "Change Status"
 msgstr "Status ändern"
 
 #: ../data/kf.glade.h:94
-#, fuzzy
 msgid "Template"
 msgstr "Vorlage"
 
@@ -740,7 +725,6 @@ msgid "Group"
 msgstr "Gruppe"
 
 #: ../data/kf.glade.h:115
-#, fuzzy
 msgid "Remove contact"
 msgstr "Kontakt entfernen"
 
@@ -754,9 +738,8 @@ msgid "Add Contact"
 msgstr "Kontakt hinzufügen"
 
 #: ../data/kf.glade.h:119
-#, fuzzy
 msgid "<big><b>Add Contact</b></big>"
-msgstr "Neuen Kontakt hinzufügen"
+msgstr "<big><b>Kontakt hinzufügen</b></big>"
 
 #: ../data/kf.glade.h:120
 msgid "JabberID"
@@ -790,9 +773,8 @@ msgid "Preferences"
 msgstr "Einstellungen"
 
 #: ../data/kf.glade.h:133
-#, fuzzy
 msgid "<b><big>Preferences</big></b>"
-msgstr "<b>Email Einstellungen</b>"
+msgstr "<b><big>Einstellungen</big></b>"
 
 #: ../data/kf.glade.h:134
 #: ../data/kf.glade.h:155
@@ -893,7 +875,6 @@ msgstr "Hinzufügen …"
 
 #: ../data/kf.glade.h:157
 #: ../data/kf.glade.h:169
-#, fuzzy
 msgid "Edit..."
 msgstr "Bearbeiten …"
 
@@ -1021,17 +1002,16 @@ msgid "opera"
 msgstr "opera"
 
 #: ../data/kf.glade.h:195
-#, fuzzy
 msgid "play"
 msgstr "Wiedergabe"
 
 #: ../data/kf.glade.h:196
 msgid "artsplay"
-msgstr ""
+msgstr "artsplay"
 
 #: ../data/kf.glade.h:197
 msgid "esdplay"
-msgstr ""
+msgstr "esdplay"
 
 #: ../data/kf.glade.h:198
 msgid "<b>Applications</b>"
@@ -1042,9 +1022,8 @@ msgid "Web Browser"
 msgstr "Web-Browser"
 
 #: ../data/kf.glade.h:200
-#, fuzzy
 msgid "Sound Player"
-msgstr "Zattoo Player"
+msgstr "Audio-Player"
 
 #: ../data/kf.glade.h:201
 msgid "Terminal"
@@ -1131,7 +1110,7 @@ msgstr "Regulärer Ausdruck"
 
 #: ../data/kf.glade.h:221
 msgid "_Iconset:"
-msgstr ""
+msgstr "_Iconset:"
 
 #: ../data/kf.glade.h:222
 #, fuzzy
@@ -1152,9 +1131,8 @@ msgid "Change Password"
 msgstr "Passwort ändern"
 
 #: ../data/kf.glade.h:229
-#, fuzzy
 msgid "<b><big>Change Password</big></b>"
-msgstr "Passwortänderung abgebrochen.\n"
+msgstr "<b><big>Passwort ändern</big></b>"
 
 #: ../data/kf.glade.h:230
 msgid "Old Password"
@@ -1182,9 +1160,8 @@ msgstr ""
 "© 2004 Przemysław Sitek"
 
 #: ../data/msg.glade.h:8
-#, fuzzy
 msgid "<b>To:</b>"
-msgstr "Nach"
+msgstr "<b>An:</b>"
 
 #.
 #. * Translatable strings file generated by Glade.
@@ -1254,9 +1231,8 @@ msgstr "Zugriffsrechte"
 
 #: ../data/muc.glade.h:25
 #: ../data/muc.glade.h:31
-#, fuzzy
 msgid "Ownership"
-msgstr "Ändern des Eigentümers von %s"
+msgstr "Eigentümer"
 
 #: ../data/muc.glade.h:26
 #: ../data/muc.glade.h:32
@@ -1284,9 +1260,8 @@ msgid "Find:"
 msgstr "Find:"
 
 #: ../data/muc.glade.h:38
-#, fuzzy
 msgid "Change _nick"
-msgstr "Kann den Spitznamen nicht ändern"
+msgstr "S_pitznamen ändern"
 
 #: ../data/muc.glade.h:39
 msgid "URL Grabber"
@@ -1431,19 +1406,17 @@ msgstr "Füge Gebietsschema zur Liste hinzu"
 #. * DO NOT compile it as part of your application.
 #.
 #: ../data/vcard.glade.h:7
-#, fuzzy, c-format
+#, c-format
 msgid "Properties of  '%s'"
-msgstr "%s Eigenschaften"
+msgstr "'%s'- Eigenschaften"
 
 #: ../data/vcard.glade.h:8
-#, fuzzy
 msgid "<b><big>Contact Properties</big></b>"
-msgstr "Datum & Uhrzeit Einstellungen"
+msgstr "<b><big>Kontakt-Eigenschaften</big></b>"
 
 #: ../data/vcard.glade.h:9
-#, fuzzy
 msgid "<b>Nickname</b>"
-msgstr "Spitzname"
+msgstr "<b>Spitzname</b>"
 
 #: ../data/vcard.glade.h:10
 msgid "  "
@@ -1459,9 +1432,8 @@ msgid "<b>Subscription</b>"
 msgstr "Abonnement"
 
 #: ../data/vcard.glade.h:14
-#, fuzzy
 msgid "<b>JabberID</b>"
-msgstr "Jabber-ID:"
+msgstr "<b>JabberID</b>"
 
 #: ../data/vcard.glade.h:15
 msgid "..."
@@ -1602,9 +1574,8 @@ msgstr "Ausführlicher verhalten"
 #: ../src/accounts.c:643
 #: ../src/accounts.c:737
 #: ../src/popup_group.c:130
-#, fuzzy
 msgid "Enter name..."
-msgstr "Füge Namen ein"
+msgstr "Namen eingeben ..."
 
 #: ../src/accounts.c:446
 #: ../src/accounts.c:650
@@ -1705,9 +1676,8 @@ msgid "%s (%d)"
 msgstr "%s (%d)"
 
 #: ../src/emoticons.c:345
-#, fuzzy
 msgid "Open link"
-msgstr "_Link öffnen"
+msgstr "Link öffnen"
 
 #: ../src/events.c:75
 #: ../src/events.c:178
@@ -1769,9 +1739,8 @@ msgid "Connecting..."
 msgstr "Verbindung wird hergestellt …"
 
 #: ../src/jabber_connection.c:559
-#, fuzzy
 msgid "available"
-msgstr "Verfügbar"
+msgstr "verfügbar"
 
 #: ../src/jabber_connection.c:560
 #, fuzzy
@@ -1838,9 +1807,9 @@ msgid ""
 msgstr "Eingabe URLs (Feed)"
 
 #: ../src/muc.c:815
-#, fuzzy, c-format
+#, c-format
 msgid "Error #%d: %s\n"
-msgstr "Fehler"
+msgstr "Fehler #%d: %s\n"
 
 #: ../src/muc.c:997
 #, fuzzy, c-format
@@ -1925,22 +1894,18 @@ msgid "Registration successful"
 msgstr "Registrierung erfolgreich"
 
 #: ../src/settings.c:51
-#, fuzzy
 msgid "Events"
 msgstr "Ereignisse"
 
 #: ../src/settings.c:56
-#, fuzzy
 msgid "Icons"
 msgstr "Symbole"
 
 #: ../src/settings.c:57
-#, fuzzy
 msgid "Sounds"
 msgstr "Klänge"
 
 #: ../src/settings.c:421
-#, fuzzy
 msgid "Choose file"
 msgstr "Datei wählen"
 
