@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-20 14:52+0000\n"
+"POT-Creation-Date: 2009-07-28 17:19+0000\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Héctor Daniel Cabrera <h.daniel.cabrera@gmail.com>\n"
+"Last-Translator: Dennis Tobar <dennis.tobar@gmail.com>\n"
 "Language-Team: Fedora Spanish <fedora-trans-es@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -495,11 +495,11 @@ msgstr "<b>Cuenta</b>"
 
 #: ../data/kf.glade.h:57
 msgid "Click here to save your account settings for future use"
-msgstr "Haga click aquí para guardar las configuraciones de su cuenta para futuros usos"
+msgstr "Haga clic aquí para guardar las configuraciones de su cuenta para futuros usos"
 
 #: ../data/kf.glade.h:58
 msgid "Check this if you want your password to be saved. Otherwise, you will be prompted each time you login."
-msgstr "Tilde esto si quiere que su contraseña sea guardada. De otro modo, le será pedida cada vez que se loguee."
+msgstr "Tilde esto si quiere que su contraseña sea guardada. De otro modo, le será pedida cada vez que ingrese."
 
 #: ../data/kf.glade.h:59
 msgid "Sa_ve Password"
@@ -745,7 +745,7 @@ msgstr "<b>Acción predeterminada</b>"
 
 #: ../data/kf.glade.h:137
 msgid "Double clicking on contact will open a chat window"
-msgstr "Haciendo doble click sobre el contacto, se abrirá una ventana de conversación"
+msgstr "Haciendo doble clic sobre el contacto, se abrirá una ventana de conversación"
 
 #: ../data/kf.glade.h:138
 msgid "One-to-one chat"
@@ -753,7 +753,7 @@ msgstr "Conversación uno-a-uno"
 
 #: ../data/kf.glade.h:139
 msgid "Double clicking on contact will open a message composing window"
-msgstr "Haciendo doble click sobre el contacto, se abrirá una ventana de confección de mensaje"
+msgstr "Haciendo doble clic sobre el contacto, se abrirá una ventana de confección de mensaje"
 
 #: ../data/kf.glade.h:141
 msgid "Auto-_popup new chats & messages"
@@ -777,7 +777,7 @@ msgstr "_Minimiza ventanas en el panel al cerrar"
 
 #: ../data/kf.glade.h:146
 msgid "Show status texts below contacts"
-msgstr "Muuestra textos de estado debajo de los contactos"
+msgstr "Muestra textos de estado debajo de los contactos"
 
 #: ../data/kf.glade.h:147
 msgid " "
@@ -800,7 +800,7 @@ msgstr "Muestra la hora en las conversaciones"
 
 #: ../data/kf.glade.h:151
 msgid "Display messages in IRC-style"
-msgstr "Muestra los mensajes en el -estilo IRC"
+msgstr "Muestra los mensajes en estilo IRC"
 
 #: ../data/kf.glade.h:152
 msgid "Toggle this option if you want emoticons like ':-)' to be exchanged for their graphical equivalents"
@@ -817,7 +817,7 @@ msgstr "<b>Conversación de ejemplo</b>"
 #: ../data/kf.glade.h:156
 #: ../data/kf.glade.h:168
 msgid "Add..."
-msgstr "Añadir…"
+msgstr "Añadir..."
 
 #: ../data/kf.glade.h:157
 #: ../data/kf.glade.h:169
@@ -826,7 +826,7 @@ msgstr "Editar..."
 
 #: ../data/kf.glade.h:158
 msgid "Rename..."
-msgstr "Renombrar…"
+msgstr "Renombrar..."
 
 #: ../data/kf.glade.h:159
 #: ../data/kf.glade.h:170
@@ -878,7 +878,7 @@ msgstr "Estados"
 
 #: ../data/kf.glade.h:172
 msgid "User changes status"
-msgstr "El usario cambia los estados"
+msgstr "El usuario cambia los estados"
 
 #: ../data/kf.glade.h:173
 msgid "Incoming chat message"
@@ -998,11 +998,11 @@ msgstr "Chats"
 
 #: ../data/kf.glade.h:211
 msgid "Online contacts"
-msgstr "Contactos online"
+msgstr "Contactos en línea"
 
 #: ../data/kf.glade.h:212
 msgid "Offline contacts"
-msgstr "Contactos offline"
+msgstr "Contactos desconectados"
 
 #: ../data/kf.glade.h:213
 #: ../src/archive_viewer.c:246
@@ -1034,7 +1034,7 @@ msgstr "Iconos Roster"
 
 #: ../data/kf.glade.h:219
 msgid "Regular _expression:"
-msgstr "_Expresines regulares"
+msgstr "_Expresiones regulares"
 
 #: ../data/kf.glade.h:221
 msgid "_Iconset:"
@@ -1335,7 +1335,7 @@ msgstr "Cambio"
 
 #: ../data/vcard.glade.h:13
 msgid "<b>Subscription</b>"
-msgstr "<b>Subscripción</b>"
+msgstr "<b>Suscripción</b>"
 
 #: ../data/vcard.glade.h:14
 msgid "<b>JabberID</b>"
@@ -1343,7 +1343,7 @@ msgstr "<b>JabberID</b>"
 
 #: ../data/vcard.glade.h:15
 msgid "..."
-msgstr "…"
+msgstr "..."
 
 #: ../data/vcard.glade.h:16
 msgid "<b>none|both|from|to</b> - blah blah blah..."
@@ -1495,7 +1495,7 @@ msgstr "Autoconectar"
 
 #: ../src/archive_viewer.c:190
 msgid "Message Archive has been turned off. Go to Settings window to change that."
-msgstr "Archivar mensajes ha sido desconectado. Vaya a la ventana de configuración para activarlo."
+msgstr "Archivar mensajes ha sido desactivado. Vaya a la ventana de configuración para activarlo."
 
 #: ../src/archive_viewer.c:222
 msgid "Folders"
@@ -1545,7 +1545,7 @@ msgstr "¡Las contraseñas deben ser las mismas!"
 
 #: ../src/change_password.c:74
 msgid "You have entered bad password!"
-msgstr "¡Has intruducido una contraseña equivocada!"
+msgstr "¡Has introducido una contraseña equivocada!"
 
 #: ../src/change_password.c:105
 msgid "An error occured while trying to change password."
@@ -1558,7 +1558,7 @@ msgstr "Su contraseña ha sido cambiada exitosamente."
 #: ../src/chat.c:639
 #, c-format
 msgid "User %s has been blocked. You won't receive any messages from him. To undo this open Preferences window and go to \"Block List\"."
-msgstr "El usuario %s ha sido bloqueado. No recibirá más mensajes de él/ella. Para deshacer esto, abra la ventana de Peferencias y vaya a \"Block List\"."
+msgstr "El usuario %s ha sido bloqueado. No recibirá más mensajes de él/ella. Para deshacer esto, abra la ventana de Preferencias y vaya a \"Block List\"."
 
 #: ../src/chat.c:789
 #, c-format
@@ -1672,7 +1672,7 @@ msgstr ""
 #: ../src/main.c:133
 #, c-format
 msgid "kf version %s\n"
-msgstr "veersión de fk %s\n"
+msgstr "versión de kf %s\n"
 
 #: ../src/message.c:139
 msgid "(no topic)"
@@ -1762,7 +1762,7 @@ msgstr ""
 #: ../src/register.c:197
 #: ../src/search.c:197
 msgid "Agent didn't supply registration form..."
-msgstr "El agernte no ha provisto un formulario de registro..."
+msgstr "El agente no ha provisto un formulario de registro..."
 
 #: ../src/register.c:288
 msgid "Registration successful"
