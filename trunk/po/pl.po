@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-04-24 22:24+0200\n"
-"PO-Revision-Date: 2009-10-28 00:01+0100\n"
+"POT-Creation-Date: 2009-09-22 08:52+0000\n"
+"PO-Revision-Date: 2009-09-27 14:22+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <pl@li.org>\n"
+"Language-Team: Polish <fedora-trans-pl@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,31 +19,31 @@ msgstr ""
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/archive.glade.h:7 data/dock.glade.h:8 data/kf.glade.h:20
+#: ../data/archive.glade.h:7 ../data/dock.glade.h:8 ../data/kf.glade.h:20
 msgid "Message Archive"
 msgstr "Archiwum wiadomości"
 
-#: data/archive.glade.h:8 data/msg.glade.h:9
+#: ../data/archive.glade.h:8 ../data/msg.glade.h:9
 msgid "<b>Subject:</b>"
 msgstr "<b>Temat:</b>"
 
-#: data/archive.glade.h:9
+#: ../data/archive.glade.h:9
 msgid "<b>From:</b>"
 msgstr "<b>Od:</b>"
 
-#: data/archive.glade.h:10
+#: ../data/archive.glade.h:10
 msgid "<b>Date:</b>"
 msgstr "<b>Data:</b>"
 
-#: data/archive.glade.h:11 data/kf.glade.h:85 data/search.glade.h:20
+#: ../data/archive.glade.h:11 ../data/kf.glade.h:85 ../data/search.glade.h:20
 msgid "label4"
 msgstr "etykieta 4"
 
-#: data/archive.glade.h:12 data/kf.glade.h:86
+#: ../data/archive.glade.h:12 ../data/kf.glade.h:86
 msgid "label5"
 msgstr "etykieta 5"
 
-#: data/archive.glade.h:13
+#: ../data/archive.glade.h:13
 msgid "label6"
 msgstr "etykieta 6"
 
@@ -52,42 +52,43 @@ msgstr "etykieta 6"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/browse.glade.h:7 data/kf.glade.h:34
+#: ../data/browse.glade.h:7 ../data/kf.glade.h:34
 msgid "Jabber Browser"
 msgstr "Przeglądarka Jabbera"
 
-#: data/browse.glade.h:8
+#: ../data/browse.glade.h:8
 msgid "Jabber ID:"
-msgstr "Jabber ID:"
+msgstr "Identyfikator Jabbera:"
 
-#: data/browse.glade.h:9
+#: ../data/browse.glade.h:9
 msgid "jabber.org"
 msgstr "jabber.org"
 
-#: data/browse.glade.h:10 data/kf.glade.h:54 data/kf.glade.h:55
-#: data/kf.glade.h:56 data/kf.glade.h:62 data/kf.glade.h:70 data/kf.glade.h:76
-#: data/kf.glade.h:77 data/kf.glade.h:78 data/kf.glade.h:96
-#: data/kf.glade.h:123 data/kf.glade.h:124 data/kf.glade.h:125
-#: data/kf.glade.h:175 data/kf.glade.h:176 data/kf.glade.h:177
-#: data/kf.glade.h:179 data/kf.glade.h:189 data/kf.glade.h:194
-#: data/kf.glade.h:202 data/kf.glade.h:220 data/kf.glade.h:233
-#: data/kf.glade.h:234 data/kf.glade.h:235 data/kf.glade.h:238
-#: data/msg.glade.h:10 data/msg.glade.h:11 data/muc.glade.h:10
-#: data/muc.glade.h:37 data/muc_join.glade.h:12 data/muc_join.glade.h:13
-#: data/muc_join.glade.h:14 data/muc_join.glade.h:15
-#: data/new_account.glade.h:14 data/new_account.glade.h:15
-#: data/new_account.glade.h:16 data/new_account.glade.h:17
-#: data/new_account.glade.h:18 data/register.glade.h:10 data/search.glade.h:9
-#: data/status.glade.h:9 data/vcard.glade.h:11 data/vcard.glade.h:27
-#: data/vcard.glade.h:28 data/vcard.glade.h:29 data/vcard.glade.h:30
-#: data/vcard.glade.h:31 data/vcard.glade.h:32 data/vcard.glade.h:39
-#: data/vcard.glade.h:40 data/vcard.glade.h:41 data/vcard.glade.h:42
-#: data/vcard.glade.h:43 data/vcard.glade.h:44 data/vcard.glade.h:50
-#: data/vcard.glade.h:51 data/vcard.glade.h:52 data/vcard.glade.h:53
+#: ../data/browse.glade.h:10 ../data/kf.glade.h:54 ../data/kf.glade.h:55
+#: ../data/kf.glade.h:56 ../data/kf.glade.h:62 ../data/kf.glade.h:70
+#: ../data/kf.glade.h:76 ../data/kf.glade.h:77 ../data/kf.glade.h:78
+#: ../data/kf.glade.h:96 ../data/kf.glade.h:123 ../data/kf.glade.h:124
+#: ../data/kf.glade.h:125 ../data/kf.glade.h:175 ../data/kf.glade.h:176
+#: ../data/kf.glade.h:177 ../data/kf.glade.h:179 ../data/kf.glade.h:189
+#: ../data/kf.glade.h:194 ../data/kf.glade.h:202 ../data/kf.glade.h:220
+#: ../data/kf.glade.h:233 ../data/kf.glade.h:234 ../data/kf.glade.h:235
+#: ../data/kf.glade.h:238 ../data/msg.glade.h:10 ../data/msg.glade.h:11
+#: ../data/muc.glade.h:10 ../data/muc.glade.h:37 ../data/muc_join.glade.h:12
+#: ../data/muc_join.glade.h:13 ../data/muc_join.glade.h:14
+#: ../data/muc_join.glade.h:15 ../data/new_account.glade.h:14
+#: ../data/new_account.glade.h:15 ../data/new_account.glade.h:16
+#: ../data/new_account.glade.h:17 ../data/new_account.glade.h:18
+#: ../data/register.glade.h:10 ../data/search.glade.h:9
+#: ../data/status.glade.h:9 ../data/vcard.glade.h:11 ../data/vcard.glade.h:27
+#: ../data/vcard.glade.h:28 ../data/vcard.glade.h:29 ../data/vcard.glade.h:30
+#: ../data/vcard.glade.h:31 ../data/vcard.glade.h:32 ../data/vcard.glade.h:39
+#: ../data/vcard.glade.h:40 ../data/vcard.glade.h:41 ../data/vcard.glade.h:42
+#: ../data/vcard.glade.h:43 ../data/vcard.glade.h:44 ../data/vcard.glade.h:50
+#: ../data/vcard.glade.h:51 ../data/vcard.glade.h:52 ../data/vcard.glade.h:53
 msgid "*"
 msgstr "*"
 
-#: data/browse.glade.h:11 data/browse.glade.h:15
+#: ../data/browse.glade.h:11 ../data/browse.glade.h:15
 msgid "Browse"
 msgstr "Przeglądaj"
 
@@ -96,19 +97,20 @@ msgstr "Przeglądaj"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/browse.glade.h:12 data/browse.glade.h:16 data/register.glade.h:7
+#: ../data/browse.glade.h:12 ../data/browse.glade.h:16
+#: ../data/register.glade.h:7
 msgid "Register"
 msgstr "Zarejestruj"
 
-#: data/browse.glade.h:13 data/browse.glade.h:17
+#: ../data/browse.glade.h:13 ../data/browse.glade.h:17
 msgid "Search"
-msgstr "Znajdź"
+msgstr "Wyszukaj"
 
-#: data/browse.glade.h:14 data/browse.glade.h:18
+#: ../data/browse.glade.h:14 ../data/browse.glade.h:18
 msgid "Join"
 msgstr "Dołącz"
 
-#: data/browse.glade.h:19
+#: ../data/browse.glade.h:19
 msgid "Information"
 msgstr "Informacje"
 
@@ -117,77 +119,77 @@ msgstr "Informacje"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/chat.glade.h:7
+#: ../data/chat.glade.h:7
 #, c-format
 msgid "%s"
 msgstr "%s"
 
-#: data/chat.glade.h:8
+#: ../data/chat.glade.h:8
 msgid "Click here for menu"
-msgstr "Naciśnij, aby otworzyć menu"
+msgstr "Naciśnięcie otwiera menu"
 
-#: data/chat.glade.h:9 data/register.glade.h:11
+#: ../data/chat.glade.h:9 ../data/register.glade.h:11
 msgid "label1"
 msgstr "etykieta 1"
 
-#: data/chat.glade.h:10
+#: ../data/chat.glade.h:10
 msgid "Add this contact..."
 msgstr "Dodaj ten kontakt..."
 
-#: data/chat.glade.h:11 data/kf.glade.h:98 data/kf.glade.h:127
-#: data/muc.glade.h:16
+#: ../data/chat.glade.h:11 ../data/kf.glade.h:98 ../data/kf.glade.h:127
+#: ../data/muc.glade.h:16
 msgid "Message..."
 msgstr "Wiadomość..."
 
-#: data/chat.glade.h:12
+#: ../data/chat.glade.h:12
 msgid "History..."
 msgstr "Historia..."
 
-#: data/chat.glade.h:13 data/kf.glade.h:101 data/muc.glade.h:18
+#: ../data/chat.glade.h:13 ../data/kf.glade.h:101 ../data/muc.glade.h:18
 msgid "Contact Info..."
 msgstr "Informacje o kontakcie..."
 
-#: data/chat.glade.h:14
+#: ../data/chat.glade.h:14
 msgid "Clear Buffer"
 msgstr "Wyczyść bufor"
 
-#: data/chat.glade.h:15
+#: ../data/chat.glade.h:15
 msgid "Block user"
 msgstr "Zablokuj użytkownika"
 
-#: data/chat.glade.h:16
+#: ../data/chat.glade.h:16
 msgid "Tabify"
 msgstr "Otwórz w nowej karcie"
 
-#: data/chat.glade.h:17
+#: ../data/chat.glade.h:17
 msgid "Windowify"
 msgstr "Otwórz w nowym oknie"
 
-#: data/chat.glade.h:18
+#: ../data/chat.glade.h:18
 msgid "Open in new window"
 msgstr "Otwórz w nowym oknie"
 
-#: data/chat.glade.h:19
+#: ../data/chat.glade.h:19
 msgid "Close tab"
 msgstr "Zamknij kartę"
 
-#: data/chat.glade.h:20
+#: ../data/chat.glade.h:20
 msgid "Tab position"
 msgstr "Pozycja kart"
 
-#: data/chat.glade.h:21
+#: ../data/chat.glade.h:21
 msgid "Top"
 msgstr "Góra"
 
-#: data/chat.glade.h:22
+#: ../data/chat.glade.h:22
 msgid "Bottom"
 msgstr "Dół"
 
-#: data/chat.glade.h:23
+#: ../data/chat.glade.h:23
 msgid "Left"
 msgstr "Lewo"
 
-#: data/chat.glade.h:24
+#: ../data/chat.glade.h:24
 msgid "Right"
 msgstr "Prawo"
 
@@ -196,51 +198,51 @@ msgstr "Prawo"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/dock.glade.h:7 data/msg.glade.h:7
+#: ../data/dock.glade.h:7 ../data/msg.glade.h:7
 msgid "New Message"
 msgstr "Nowa wiadomość..."
 
-#: data/dock.glade.h:9
+#: ../data/dock.glade.h:9
 msgid "Join Chatroom"
 msgstr "Dołącz do konferencji"
 
-#: data/dock.glade.h:10
+#: ../data/dock.glade.h:10
 msgid "Browse Agents"
 msgstr "Przeglądaj agentów"
 
-#: data/dock.glade.h:11
+#: ../data/dock.glade.h:11
 msgid "Seacrh For Users"
-msgstr "Znajdź użytkowników"
+msgstr "Wyszukaj użytkowników"
 
-#: data/dock.glade.h:12
+#: ../data/dock.glade.h:12
 msgid "Register In Service"
 msgstr "Zarejestruj się w usłudze"
 
-#: data/dock.glade.h:13
+#: ../data/dock.glade.h:13
 msgid "Online"
-msgstr "Dostępny"
+msgstr "Online"
 
-#: data/dock.glade.h:14 data/kf.glade.h:41
+#: ../data/dock.glade.h:14 ../data/kf.glade.h:41
 msgid "Chat With Me!"
 msgstr "Porozmawiaj ze mną!"
 
-#: data/dock.glade.h:15 data/kf.glade.h:42
+#: ../data/dock.glade.h:15 ../data/kf.glade.h:42
 msgid "Away"
 msgstr "Zaraz wracam"
 
-#: data/dock.glade.h:16 data/kf.glade.h:43
+#: ../data/dock.glade.h:16 ../data/kf.glade.h:43
 msgid "eXtended Away"
 msgstr "Nieobecny"
 
-#: data/dock.glade.h:17 data/kf.glade.h:44
+#: ../data/dock.glade.h:17 ../data/kf.glade.h:44
 msgid "Busy"
 msgstr "Zajęty"
 
-#: data/dock.glade.h:18 data/kf.glade.h:45
+#: ../data/dock.glade.h:18 ../data/kf.glade.h:45
 msgid "Invisible"
 msgstr "Niewidoczny"
 
-#: data/dock.glade.h:19 data/kf.glade.h:46
+#: ../data/dock.glade.h:19 ../data/kf.glade.h:46
 msgid "Disconnected"
 msgstr "Rozłączony"
 
@@ -249,91 +251,91 @@ msgstr "Rozłączony"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:7 data/kf.glade.h:63
+#: ../data/kf.glade.h:7 ../data/kf.glade.h:63
 msgid "kf"
 msgstr "kf"
 
-#: data/kf.glade.h:8
+#: ../data/kf.glade.h:8
 msgid "Actions"
 msgstr "Działania"
 
-#: data/kf.glade.h:9 data/kf.glade.h:97
+#: ../data/kf.glade.h:9 ../data/kf.glade.h:97
 msgid "Add Contact..."
 msgstr "Dodaj kontakt..."
 
-#: data/kf.glade.h:10
+#: ../data/kf.glade.h:10
 msgid "New Message.."
 msgstr "Nowa wiadomość..."
 
-#: data/kf.glade.h:11
+#: ../data/kf.glade.h:11
 msgid "View"
 msgstr "Widok"
 
-#: data/kf.glade.h:12
+#: ../data/kf.glade.h:12
 msgid "Toolbar"
 msgstr "Pasek narzędziowy"
 
-#: data/kf.glade.h:13
+#: ../data/kf.glade.h:13
 msgid "Offline Contacts"
-msgstr "Rozłączone kontakty"
+msgstr "Kontakty w trybie offline"
 
-#: data/kf.glade.h:14 data/kf.glade.h:116
+#: ../data/kf.glade.h:14 ../data/kf.glade.h:116
 msgid "XML Console"
 msgstr "Konsola XML"
 
-#: data/kf.glade.h:15
+#: ../data/kf.glade.h:15
 msgid "Internet"
 msgstr "Internet"
 
-#: data/kf.glade.h:16 data/kf.glade.h:239
+#: ../data/kf.glade.h:16 ../data/kf.glade.h:239
 msgid "About..."
 msgstr "O programie..."
 
-#: data/kf.glade.h:17
+#: ../data/kf.glade.h:17
 msgid "Exit"
 msgstr "Zakończ"
 
-#: data/kf.glade.h:18
+#: ../data/kf.glade.h:18
 msgid "Services"
 msgstr "Usługi"
 
-#: data/kf.glade.h:19 src/vcard.c:357
+#: ../data/kf.glade.h:19 ../src/vcard.c:357
 msgid "My vCard"
-msgstr "Moja wizytówka vCard"
+msgstr "Wizytówka vCard użytkownika"
 
-#: data/kf.glade.h:21
+#: ../data/kf.glade.h:21
 msgid "Join Chatroom..."
 msgstr "Dołącz do konferencji..."
 
-#: data/kf.glade.h:22
+#: ../data/kf.glade.h:22
 msgid "Browse Agents..."
 msgstr "Przeglądaj agentów..."
 
-#: data/kf.glade.h:23
+#: ../data/kf.glade.h:23
 msgid "Search for users..."
-msgstr "Znajdź użytkowników..."
+msgstr "Wyszukaj użytkowników..."
 
-#: data/kf.glade.h:24
+#: ../data/kf.glade.h:24
 msgid "Register In Service..."
 msgstr "Zarejestruj się w usłudze..."
 
-#: data/kf.glade.h:25
+#: ../data/kf.glade.h:25
 msgid "Change Password..."
 msgstr "Zmień hasło..."
 
-#: data/kf.glade.h:26
+#: ../data/kf.glade.h:26
 msgid "Privacy settings..."
 msgstr "Ustawienia prywatności..."
 
-#: data/kf.glade.h:27
+#: ../data/kf.glade.h:27
 msgid "Add contats to your roster"
 msgstr "Dodaj znajomych do listy kontaktów"
 
-#: data/kf.glade.h:28 data/search.glade.h:19
+#: ../data/kf.glade.h:28 ../data/search.glade.h:19
 msgid "Add contact"
 msgstr "Dodaj kontakt..."
 
-#: data/kf.glade.h:29
+#: ../data/kf.glade.h:29
 msgid "Join a conference"
 msgstr "Dołącz do konferencji"
 
@@ -342,19 +344,19 @@ msgstr "Dołącz do konferencji"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:30 data/muc_join.glade.h:7
+#: ../data/kf.glade.h:30 ../data/muc_join.glade.h:7
 msgid "Join Conference"
 msgstr "Dołącz do konferencji"
 
-#: data/kf.glade.h:31
+#: ../data/kf.glade.h:31
 msgid "Show/hide offline contacts"
-msgstr "Wyświetl/ukryj rozłączone kontakty"
+msgstr "Wyświetlanie/ukrywanie kontaktów w trybie offline"
 
-#: data/kf.glade.h:32
+#: ../data/kf.glade.h:32
 msgid "Show offline"
-msgstr "Wyświetl rozłączonych"
+msgstr "Wyświetlanie kontaktów w trybie offline"
 
-#: data/kf.glade.h:33
+#: ../data/kf.glade.h:33
 msgid "Browse services"
 msgstr "Przeglądaj usługi"
 
@@ -363,621 +365,625 @@ msgstr "Przeglądaj usługi"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/kf.glade.h:35 data/search.glade.h:7
+#: ../data/kf.glade.h:35 ../data/search.glade.h:7
 msgid "Search for users"
-msgstr "Znajdź użytkowników"
+msgstr "Wyszukaj użytkowników"
 
-#: data/kf.glade.h:36
+#: ../data/kf.glade.h:36
 msgid "Find Users"
 msgstr "Znajdź użytkowników"
 
-#: data/kf.glade.h:37
+#: ../data/kf.glade.h:37
 msgid "Buddies"
 msgstr "Znajomi"
 
-#: data/kf.glade.h:38
+#: ../data/kf.glade.h:38
 msgid "Change your status here"
-msgstr "Zmień status"
+msgstr "Zmień stan"
 
-#: data/kf.glade.h:39
+#: ../data/kf.glade.h:39
 msgid "Status"
-msgstr "Status"
+msgstr "Stan"
 
-#: data/kf.glade.h:40
+#: ../data/kf.glade.h:40
 msgid "Available"
 msgstr "Dostępny"
 
-#: data/kf.glade.h:47
+#: ../data/kf.glade.h:47
 msgid "Disconnected with status"
-msgstr "Rozłączony z opisem"
+msgstr "Rozłączony ze stanem"
 
-#: data/kf.glade.h:48
+#: ../data/kf.glade.h:48
 msgid "Connection Settings"
 msgstr "Ustawienia połączenia"
 
-#: data/kf.glade.h:49
+#: ../data/kf.glade.h:49
 msgid "<big><b>Connection Settings</b></big>"
 msgstr "<big><b>Ustawienia połączenia</b></big>"
 
-#: data/kf.glade.h:50 data/muc_join.glade.h:11 data/new_account.glade.h:10
+#: ../data/kf.glade.h:50 ../data/muc_join.glade.h:11
+#: ../data/new_account.glade.h:10
 msgid "_Password"
 msgstr "_Hasło"
 
-#: data/kf.glade.h:51 data/muc_join.glade.h:8 data/new_account.glade.h:9
+#: ../data/kf.glade.h:51 ../data/muc_join.glade.h:8
+#: ../data/new_account.glade.h:9
 msgid "_Server"
 msgstr "_Serwer"
 
-#: data/kf.glade.h:52 data/new_account.glade.h:11
+#: ../data/kf.glade.h:52 ../data/new_account.glade.h:11
 msgid "_Username"
 msgstr "Nazwa _użytkownika"
 
-#: data/kf.glade.h:53
+#: ../data/kf.glade.h:53
 msgid "<b>_Account</b>"
 msgstr "<b>_Konto</b>"
 
-#: data/kf.glade.h:57
+#: ../data/kf.glade.h:57
 msgid "Click here to save your account settings for future use"
-msgstr "Naciśnij, aby zapisać ustawienia konta na przyszłość."
+msgstr "Naciśnięcie zapisuje ustawienia konta na przyszłość."
 
-#: data/kf.glade.h:58
+#: ../data/kf.glade.h:58
 msgid ""
 "Check this if you want your password to be saved. Otherwise, you will be "
 "prompted each time you login."
 msgstr ""
-"Zaznacz to pole jeśli chcesz, aby hasło zostało zapisane. W przeciwnym "
+"Należy zaznaczyć to pole, jeśli hasło ma zostać zapisane. W przeciwnym "
 "wypadku konieczne będzie podanie go podczas każdego logowania."
 
-#: data/kf.glade.h:59
+#: ../data/kf.glade.h:59
 msgid "Sa_ve Password"
 msgstr "Z_apisz hasło"
 
-#: data/kf.glade.h:60
+#: ../data/kf.glade.h:60
 msgid "Resource"
 msgstr "Zasób"
 
-#: data/kf.glade.h:61
+#: ../data/kf.glade.h:61
 msgid "Connection using SSL"
 msgstr "Połączenie używając SSL"
 
-#: data/kf.glade.h:64
+#: ../data/kf.glade.h:64
 msgid "Home"
 msgstr "Dom"
 
-#: data/kf.glade.h:65
+#: ../data/kf.glade.h:65
 msgid "Work"
 msgstr "Praca"
 
-#: data/kf.glade.h:66
+#: ../data/kf.glade.h:66
 msgid "School"
 msgstr "Szkoła"
 
-#: data/kf.glade.h:67 data/kf.glade.h:73
+#: ../data/kf.glade.h:67 ../data/kf.glade.h:73
 msgid "Port"
 msgstr "Port"
 
-#: data/kf.glade.h:68
+#: ../data/kf.glade.h:68
 msgid "Priority"
 msgstr "Priorytet"
 
-#: data/kf.glade.h:69
+#: ../data/kf.glade.h:69
 msgid "Manuallly specify jabber server:"
-msgstr "Ręcznie ustaw serwer Jabbera:"
+msgstr "Ręczne ustawienie serwera Jabbera:"
 
-#: data/kf.glade.h:71
+#: ../data/kf.glade.h:71
 msgid "Advanced settings"
 msgstr "Zaawansowane ustawienia"
 
-#: data/kf.glade.h:72
+#: ../data/kf.glade.h:72
 msgid "Server"
 msgstr "Serwer"
 
-#: data/kf.glade.h:74
+#: ../data/kf.glade.h:74
 msgid "Username"
 msgstr "Nazwa użytkownika"
 
-#: data/kf.glade.h:75 data/kf.glade.h:236
+#: ../data/kf.glade.h:75 ../data/kf.glade.h:236
 msgid "Password"
 msgstr "Hasło"
 
-#: data/kf.glade.h:79
+#: ../data/kf.glade.h:79
 msgid "Use proxy"
-msgstr "Użyj pośrednika"
+msgstr "Użycie pośrednika"
 
-#: data/kf.glade.h:80
+#: ../data/kf.glade.h:80
 msgid "Proxy"
 msgstr "Pośrednik"
 
-#: data/kf.glade.h:81
+#: ../data/kf.glade.h:81
 msgid "Register new account..."
 msgstr "Zarejestruj nowe konto..."
 
-#: data/kf.glade.h:82
+#: ../data/kf.glade.h:82
 msgid "Connect to a Jabber server"
 msgstr "Połącz się z serwerem Jabbera"
 
-#: data/kf.glade.h:83
+#: ../data/kf.glade.h:83
 msgid "Save settings"
 msgstr "Zapisz ustawienia"
 
-#: data/kf.glade.h:84 data/kf.glade.h:140
+#: ../data/kf.glade.h:84 ../data/kf.glade.h:140
 msgid "Message"
 msgstr "Wiadomość"
 
-#: data/kf.glade.h:87
+#: ../data/kf.glade.h:87
 msgid "label12"
 msgstr "etykieta 12"
 
-#: data/kf.glade.h:88
+#: ../data/kf.glade.h:88
 msgid "<b>From</b>"
 msgstr "<b>Od</b>"
 
-#: data/kf.glade.h:89
+#: ../data/kf.glade.h:89
 msgid "<b>Subject</b>"
 msgstr "<b>Temat</b>"
 
-#: data/kf.glade.h:90
+#: ../data/kf.glade.h:90
 msgid "<b>Date</b>"
 msgstr "<b>Data</b>"
 
-#: data/kf.glade.h:91
+#: ../data/kf.glade.h:91
 msgid "Reply"
 msgstr "Odpowiedz"
 
-#: data/kf.glade.h:92
+#: ../data/kf.glade.h:92
 msgid "Next"
 msgstr "Następna"
 
-#: data/kf.glade.h:93
+#: ../data/kf.glade.h:93
 msgid "Change Status"
-msgstr "Zmień status"
+msgstr "Zmień stan"
 
-#: data/kf.glade.h:94
+#: ../data/kf.glade.h:94
 msgid "Template"
 msgstr "Wzór"
 
-#: data/kf.glade.h:95
+#: ../data/kf.glade.h:95
 msgid "Add this status to Templates"
-msgstr "Dodaj ten status do wzorów"
+msgstr "Dodaj ten stan do wzorów"
 
-#: data/kf.glade.h:99 data/kf.glade.h:128 data/muc.glade.h:17
+#: ../data/kf.glade.h:99 ../data/kf.glade.h:128 ../data/muc.glade.h:17
 msgid "Chat..."
 msgstr "Rozmowa..."
 
-#: data/kf.glade.h:100
+#: ../data/kf.glade.h:100
 msgid "Message History..."
 msgstr "Historia wiadomości..."
 
-#: data/kf.glade.h:102
+#: ../data/kf.glade.h:102
 msgid "Invite to"
 msgstr "Zaproś do"
 
-#: data/kf.glade.h:103
+#: ../data/kf.glade.h:103
 msgid "Send Contacts..."
 msgstr "Wyślij kontakty..."
 
-#: data/kf.glade.h:104
+#: ../data/kf.glade.h:104
 msgid "Register..."
 msgstr "Zarejestruj..."
 
-#: data/kf.glade.h:105
+#: ../data/kf.glade.h:105
 msgid "Search..."
-msgstr "Znajdź..."
+msgstr "Wyszukaj..."
 
-#: data/kf.glade.h:106
+#: ../data/kf.glade.h:106
 msgid "Log In"
 msgstr "Zaloguj się"
 
-#: data/kf.glade.h:107 data/kf.glade.h:129
+#: ../data/kf.glade.h:107 ../data/kf.glade.h:129
 msgid "Log Out"
 msgstr "Wyloguj się"
 
-#: data/kf.glade.h:108
+#: ../data/kf.glade.h:108
 msgid "Presence"
 msgstr "Obecność"
 
-#: data/kf.glade.h:109
+#: ../data/kf.glade.h:109
 msgid "Send Online"
-msgstr "Wyślij \"Dostępny\""
+msgstr "Wyślij \"online\""
 
-#: data/kf.glade.h:110
+#: ../data/kf.glade.h:110
 msgid "Send Invisible"
-msgstr "Wyślij \"Niewidoczny\""
+msgstr "Wyślij \"niewidoczny\""
 
-#: data/kf.glade.h:111
+#: ../data/kf.glade.h:111
 msgid "Ask"
 msgstr "Poproś o autoryzację"
 
-#: data/kf.glade.h:112
+#: ../data/kf.glade.h:112
 msgid "Give"
 msgstr "Udziel autoryzacji"
 
-#: data/kf.glade.h:113
+#: ../data/kf.glade.h:113
 msgid "Deny"
 msgstr "Odmów autoryzacji"
 
-#: data/kf.glade.h:114 data/kf.glade.h:122
+#: ../data/kf.glade.h:114 ../data/kf.glade.h:122
 msgid "Group"
 msgstr "Grupa"
 
-#: data/kf.glade.h:115
+#: ../data/kf.glade.h:115
 msgid "Remove contact"
 msgstr "Usuń kontakt"
 
-#: data/kf.glade.h:117 data/muc.glade.h:15
+#: ../data/kf.glade.h:117 ../data/muc.glade.h:15
 msgid "Send"
 msgstr "Wyślij"
 
-#: data/kf.glade.h:118
+#: ../data/kf.glade.h:118
 msgid "Add Contact"
 msgstr "Dodaj kontakt"
 
-#: data/kf.glade.h:119
+#: ../data/kf.glade.h:119
 msgid "<big><b>Add Contact</b></big>"
 msgstr "<big><b>Dodaj kontakt</b></big>"
 
-#: data/kf.glade.h:120
+#: ../data/kf.glade.h:120
 msgid "JabberID"
-msgstr "Jabber ID"
+msgstr "Identyfikator Jabbera"
 
-#: data/kf.glade.h:121 data/status.glade.h:8 data/vcard.glade.h:46
-#: src/accounts.c:505 src/settings_blacklist.c:64 src/settings_statuses.c:68
+#: ../data/kf.glade.h:121 ../data/status.glade.h:8 ../data/vcard.glade.h:46
+#: ../src/accounts.c:505 ../src/settings_blacklist.c:64
+#: ../src/settings_statuses.c:68
 msgid "Name"
 msgstr "Nazwa"
 
-#: data/kf.glade.h:126
+#: ../data/kf.glade.h:126
 msgid "Ask for subscription"
 msgstr "Poproś o subskrypcję"
 
-#: data/kf.glade.h:130
+#: ../data/kf.glade.h:130
 msgid "Agent Info..."
 msgstr "Informacje o agencie..."
 
-#: data/kf.glade.h:131
+#: ../data/kf.glade.h:131
 msgid "Remove Agent"
 msgstr "Usuń agenta"
 
-#: data/kf.glade.h:132
+#: ../data/kf.glade.h:132
 msgid "Preferences"
 msgstr "Preferencje"
 
-#: data/kf.glade.h:133
+#: ../data/kf.glade.h:133
 msgid "<b><big>Preferences</big></b>"
 msgstr "<b><big>Preferencje</big></b>"
 
-#: data/kf.glade.h:134 data/kf.glade.h:155
+#: ../data/kf.glade.h:134 ../data/kf.glade.h:155
 msgid "label61"
 msgstr "etykieta 61"
 
-#: data/kf.glade.h:135
+#: ../data/kf.glade.h:135
 msgid "<b>General</b>"
 msgstr "<b>Ogólne</b>"
 
-#: data/kf.glade.h:136
+#: ../data/kf.glade.h:136
 msgid "<b>Default action</b>"
-msgstr "<b>Domyślne działanie</b>"
+msgstr "<b>Domyślna czynność</b>"
 
-#: data/kf.glade.h:137
+#: ../data/kf.glade.h:137
 msgid "Double clicking on contact will open a chat window"
 msgstr "Podwójne naciśnięcie na kontakcie otworzy okno rozmowy"
 
-#: data/kf.glade.h:138
+#: ../data/kf.glade.h:138
 msgid "One-to-one chat"
 msgstr "Rozmowa jeden-na-jednego"
 
-#: data/kf.glade.h:139
+#: ../data/kf.glade.h:139
 msgid "Double clicking on contact will open a message composing window"
 msgstr ""
 "Podwójne naciśnięcie na kontakcie otworzy okno tworzenia nowej wiadomości"
 
-#: data/kf.glade.h:141
+#: ../data/kf.glade.h:141
 msgid "Auto-_popup new chats & messages"
-msgstr "_Automatycznie otwieraj nowe rozmowy i wiadomości"
+msgstr "_Automatycznie otwieranie nowych rozmów i wiadomości"
 
-#: data/kf.glade.h:142
+#: ../data/kf.glade.h:142
 msgid "Enable _Sound"
-msgstr "Włącz _dźwięk"
+msgstr "Włączenie _dźwięku"
 
-#: data/kf.glade.h:143
+#: ../data/kf.glade.h:143
 msgid ""
 "Toggle this if you want all new chats to open in tabs in roster window "
 "rather than in new windows"
 msgstr ""
-"Włącz tę opcję jeśli chcesz, aby nowe nowe rozmowy były otwierane w kartach "
-"w oknie listy znajomych, zamiast w nowych oknach"
+"Należy włączyć tę opcję, jeśli nowe nowe rozmowy mają być otwierane w "
+"kartach w oknie listy znajomych, zamiast w nowych oknach"
 
-#: data/kf.glade.h:144
+#: ../data/kf.glade.h:144
 msgid "Open chats in _tabs by default"
-msgstr "Domyślnie o_twórz nowe rozmowy w kartach"
+msgstr "Domyślnie o_twieranie nowych rozmów w kartach"
 
-#: data/kf.glade.h:145
+#: ../data/kf.glade.h:145
 msgid "_Minimize roster window to tray on close"
-msgstr "Z_minimalizuj listę znajomych do obszaru powiadamiania zamiast zamykać"
+msgstr ""
+"Z_minimalizowanie listyę znajomych do obszaru powiadamiania zamiast zamykania"
 
-#: data/kf.glade.h:146
+#: ../data/kf.glade.h:146
 msgid "Show status texts below contacts"
-msgstr "Wyświetl teksty statusów pod kontaktami"
+msgstr "Teksty stanu pod kontaktami"
 
-#: data/kf.glade.h:147
+#: ../data/kf.glade.h:147
 msgid " "
 msgstr " "
 
-#: data/kf.glade.h:148
+#: ../data/kf.glade.h:148
 msgid "Enable _Docklet"
-msgstr "Wyświetl ikonę w o_bszarze powiadamiania"
+msgstr "Ikona w o_bszarze powiadamiania"
 
-#: data/kf.glade.h:149 data/vcard.glade.h:33 src/gui.c:710 src/settings.c:49
+#: ../data/kf.glade.h:149 ../data/vcard.glade.h:33 ../src/gui.c:711
+#: ../src/settings.c:49
 msgid "General"
 msgstr "Ogólne"
 
-#: data/kf.glade.h:150
+#: ../data/kf.glade.h:150
 msgid "Display time stamps in conversations"
-msgstr "Wyświetl czas w rozmowach"
+msgstr "Wyświetlanie czasu w rozmowach"
 
-#: data/kf.glade.h:151
+#: ../data/kf.glade.h:151
 msgid "Display messages in IRC-style"
-msgstr "Wyświetl wiadomości w stylu IRC"
+msgstr "Wyświetlanie wiadomości w stylu IRC"
 
-#: data/kf.glade.h:152
+#: ../data/kf.glade.h:152
 msgid ""
 "Toggle this option if you want emoticons like ':-)' to be exchanged for "
 "their graphical equivalents"
 msgstr ""
-"Przełącz tę opcję jeśli chcesz, aby emotikonki, takie jak \":-)\", zostały "
-"zmienione na ich graficzne odpowiedniki"
+"Należy przełączyć tę opcję, jeśli emotikonki, takie jak \":-)\", mają zostać "
+"zmieniane na ich graficzne odpowiedniki"
 
-#: data/kf.glade.h:153
+#: ../data/kf.glade.h:153
 msgid "_Use emoticons"
-msgstr "_Użyj graficznych emotikonek"
+msgstr "_Graficzne emotikonki"
 
-#: data/kf.glade.h:154
+#: ../data/kf.glade.h:154
 msgid "<b>Sample conversation</b>"
 msgstr "<b>Przykładowa rozmowa</b>"
 
-#: data/kf.glade.h:156 data/kf.glade.h:168
+#: ../data/kf.glade.h:156 ../data/kf.glade.h:168
 msgid "Add..."
 msgstr "Dodaj..."
 
-#: data/kf.glade.h:157 data/kf.glade.h:169
+#: ../data/kf.glade.h:157 ../data/kf.glade.h:169
 msgid "Edit..."
-msgstr "Edytuj..."
+msgstr "Zmodyfikuj..."
 
-#: data/kf.glade.h:158
+#: ../data/kf.glade.h:158
 msgid "Rename..."
 msgstr "Zmień nazwę..."
 
-#: data/kf.glade.h:159 data/kf.glade.h:170
+#: ../data/kf.glade.h:159 ../data/kf.glade.h:170
 msgid "Remove"
 msgstr "Usuń"
 
 #. {NULL, "Contact List", 9},
-#: data/kf.glade.h:160 src/settings.c:53
+#: ../data/kf.glade.h:160 ../src/settings.c:53
 msgid "Accounts"
 msgstr "Konta"
 
-#: data/kf.glade.h:161 data/kf.glade.h:184 data/kf.glade.h:188
-#: data/kf.glade.h:209 data/new_account.glade.h:20 data/vcard.glade.h:19
-#: data/vcard.glade.h:56
+#: ../data/kf.glade.h:161 ../data/kf.glade.h:184 ../data/kf.glade.h:188
+#: ../data/kf.glade.h:209 ../data/new_account.glade.h:20
+#: ../data/vcard.glade.h:19 ../data/vcard.glade.h:56
 msgid "   "
 msgstr "   "
 
-#: data/kf.glade.h:162
+#: ../data/kf.glade.h:162
 msgid "Set status to Away after"
-msgstr "Ustaw status na \"Zaraz wracam\" po"
+msgstr "Ustawienie stanu na \"Zaraz wracam\" po"
 
-#: data/kf.glade.h:163 data/kf.glade.h:165
+#: ../data/kf.glade.h:163 ../data/kf.glade.h:165
 msgid "minutes"
 msgstr "minutach"
 
-#: data/kf.glade.h:164
+#: ../data/kf.glade.h:164
 msgid "Set status to XA after"
-msgstr "Ustaw status na \"Nieobecny\" po"
+msgstr "Ustawienie stanu na \"Nieobecny\" po"
 
-#: data/kf.glade.h:166
+#: ../data/kf.glade.h:166
 msgid "Enable AutoAway"
-msgstr ""
-"Włącz automatyczne ustawianie statusu \"Nieobecny\" przy braku aktywności"
+msgstr "Automatyczne ustawianie statusu \"Nieobecny\" przy braku aktywności"
 
-#: data/kf.glade.h:167 src/settings.c:54
+#: ../data/kf.glade.h:167 ../src/settings.c:54
 msgid "AutoAway"
 msgstr "Obecność"
 
-#: data/kf.glade.h:171 src/settings.c:55
+#: ../data/kf.glade.h:171 ../src/settings.c:55
 msgid "Statuses"
-msgstr "Statusy"
+msgstr "Stany"
 
-#: data/kf.glade.h:172
+#: ../data/kf.glade.h:172
 msgid "User changes status"
-msgstr "Użytkownik zmienia status"
+msgstr "Użytkownik zmienia stan"
 
-#: data/kf.glade.h:173
+#: ../data/kf.glade.h:173
 msgid "Incoming chat message"
 msgstr "Nadchodząca rozmowa"
 
-#: data/kf.glade.h:174
+#: ../data/kf.glade.h:174
 msgid "Incoming normal message"
 msgstr "Nadchodząca wiadomość"
 
-#: data/kf.glade.h:178
+#: ../data/kf.glade.h:178
 msgid "User goes offline"
-msgstr "Użytkownik się rozłącza"
+msgstr "Użytkownik przechodzi do trybu offline"
 
-#: data/kf.glade.h:180
+#: ../data/kf.glade.h:180
 msgid "Sound"
 msgstr "Dźwięk"
 
-#: data/kf.glade.h:181
+#: ../data/kf.glade.h:181
 msgid "Messages from these JIDs will be instantly deleted."
 msgstr "Wiadomości od tych JID będą natychmiast usuwane."
 
-#: data/kf.glade.h:182 src/settings.c:58
+#: ../data/kf.glade.h:182 ../src/settings.c:58
 msgid "Block List"
 msgstr "Lista zablokowanych"
 
-#: data/kf.glade.h:183
+#: ../data/kf.glade.h:183
 msgid "<b>Message logging</b>"
 msgstr "<b>Dzienniki wiadomości</b>"
 
-#: data/kf.glade.h:185
+#: ../data/kf.glade.h:185
 msgid "Enable Message Archive"
-msgstr "Włącz archiwum wiadomości"
+msgstr "Archiwum wiadomości"
 
-#: data/kf.glade.h:186
+#: ../data/kf.glade.h:186
 msgid "Keep additionally logs in text files"
-msgstr "Zatrzymaj dodatkowo dzienniki w plikach tekstowych"
+msgstr "Zatrzymanie dodatkowych dzienników w plikach tekstowych"
 
-#: data/kf.glade.h:187 src/settings.c:59
+#: ../data/kf.glade.h:187 ../src/settings.c:59
 msgid "Privacy"
 msgstr "Prywatność"
 
-#: data/kf.glade.h:190
+#: ../data/kf.glade.h:190
 msgid "mozilla"
 msgstr "Mozilla"
 
-#: data/kf.glade.h:191
+#: ../data/kf.glade.h:191
 msgid "galeon"
 msgstr "Galeon"
 
-#: data/kf.glade.h:192
+#: ../data/kf.glade.h:192
 msgid "konqueror"
 msgstr "Konqueror"
 
-#: data/kf.glade.h:193
+#: ../data/kf.glade.h:193
 msgid "opera"
 msgstr "Opera"
 
-#: data/kf.glade.h:195
+#: ../data/kf.glade.h:195
 msgid "play"
 msgstr "Polecenie \"play\""
 
-#: data/kf.glade.h:196
+#: ../data/kf.glade.h:196
 msgid "artsplay"
 msgstr "Polecenie \"artsplay\""
 
-#: data/kf.glade.h:197
+#: ../data/kf.glade.h:197
 msgid "esdplay"
 msgstr "Polecenie \"esdplay\""
 
-#: data/kf.glade.h:198
+#: ../data/kf.glade.h:198
 msgid "<b>Applications</b>"
 msgstr "<b>Aplikacje</b>"
 
-#: data/kf.glade.h:199
+#: ../data/kf.glade.h:199
 msgid "Web Browser"
 msgstr "Przeglądarka WWW"
 
-#: data/kf.glade.h:200
+#: ../data/kf.glade.h:200
 msgid "Sound Player"
 msgstr "Odtwarzacz dźwięku"
 
-#: data/kf.glade.h:201
+#: ../data/kf.glade.h:201
 msgid "Terminal"
 msgstr "Terminal"
 
-#: data/kf.glade.h:203
+#: ../data/kf.glade.h:203
 msgid "xterm"
 msgstr "xterm"
 
-#: data/kf.glade.h:204
+#: ../data/kf.glade.h:204
 msgid "rxvt"
 msgstr "rxvt"
 
-#: data/kf.glade.h:205
+#: ../data/kf.glade.h:205
 msgid "Eterm"
 msgstr "Eterm"
 
-#: data/kf.glade.h:206
+#: ../data/kf.glade.h:206
 msgid "konsole"
 msgstr "Konsole"
 
-#: data/kf.glade.h:207 src/settings.c:60
+#: ../data/kf.glade.h:207 ../src/settings.c:60
 msgid "Advanced"
 msgstr "Zaawansowane"
 
-#: data/kf.glade.h:208
+#: ../data/kf.glade.h:208
 msgid "Enable popup notifications"
-msgstr "Włącz wyskakujące powiadomienia"
+msgstr "Wyskakujące powiadomienia"
 
-#: data/kf.glade.h:210 src/archive_viewer.c:245
+#: ../data/kf.glade.h:210 ../src/archive_viewer.c:245
 msgid "Chats"
 msgstr "Rozmowy"
 
-#: data/kf.glade.h:211
+#: ../data/kf.glade.h:211
 msgid "Online contacts"
-msgstr "Dostępne kontakty"
+msgstr "Kontakty w trybie online"
 
-#: data/kf.glade.h:212
+#: ../data/kf.glade.h:212
 msgid "Offline contacts"
-msgstr "Rozłączone kontakty"
+msgstr "Kontakty w trybie offline"
 
-#: data/kf.glade.h:213 src/archive_viewer.c:246
+#: ../data/kf.glade.h:213 ../src/archive_viewer.c:246
 msgid "Messages"
 msgstr "Wiadomości"
 
-#: data/kf.glade.h:214
+#: ../data/kf.glade.h:214
 msgid "label63"
 msgstr "etykieta 63"
 
-#: data/kf.glade.h:215 data/kf.glade.h:223
+#: ../data/kf.glade.h:215 ../data/kf.glade.h:223
 msgid "_Install"
 msgstr "Za_instaluj"
 
-#: data/kf.glade.h:216 data/kf.glade.h:224
+#: ../data/kf.glade.h:216 ../data/kf.glade.h:224
 msgid "_Uninstall"
 msgstr "Odinstal_uj"
 
-#: data/kf.glade.h:217 data/kf.glade.h:225
+#: ../data/kf.glade.h:217 ../data/kf.glade.h:225
 msgid "Get _More"
 msgstr "Pobierz _więcej"
 
-#: data/kf.glade.h:218
+#: ../data/kf.glade.h:218
 msgid "Roster Icons"
 msgstr "Ikony na liście znajomych"
 
-#: data/kf.glade.h:219
+#: ../data/kf.glade.h:219
 msgid "Regular _expression:"
 msgstr "Wyraż_enie regularne:"
 
-#: data/kf.glade.h:221
+#: ../data/kf.glade.h:221
 msgid "_Iconset:"
 msgstr "Zestaw _ikon:"
 
-#: data/kf.glade.h:222
+#: ../data/kf.glade.h:222
 msgid "Transport Icons"
 msgstr "Ikony transportów"
 
-#: data/kf.glade.h:226
+#: ../data/kf.glade.h:226
 msgid "Emoticons"
 msgstr "Emotikonki"
 
-#: data/kf.glade.h:227
+#: ../data/kf.glade.h:227
 msgid "label65"
 msgstr "etykieta 65"
 
-#: data/kf.glade.h:228
+#: ../data/kf.glade.h:228
 msgid "Change Password"
 msgstr "Zmień hasło"
 
-#: data/kf.glade.h:229
+#: ../data/kf.glade.h:229
 msgid "<b><big>Change Password</big></b>"
-msgstr "<b><big>Zmień hasło</big></b>"
+msgstr "<b><big>Zmiana hasła</big></b>"
 
-#: data/kf.glade.h:230
+#: ../data/kf.glade.h:230
 msgid "Old Password"
 msgstr "Stare hasło"
 
-#: data/kf.glade.h:231
+#: ../data/kf.glade.h:231
 msgid "New Password"
 msgstr "Nowe hasło"
 
-#: data/kf.glade.h:232
+#: ../data/kf.glade.h:232
 msgid "Retype Password"
-msgstr "Powtórz hasło"
+msgstr "Proszę powtórzyć hasło"
 
-#: data/kf.glade.h:237
+#: ../data/kf.glade.h:237
 msgid "Enter password:"
-msgstr "Podaj hasło:"
+msgstr "Proszę podać hasło:"
 
-#: data/kf.glade.h:240
+#: ../data/kf.glade.h:240
 #, c-format
 msgid ""
 "version %s\n"
@@ -986,7 +992,7 @@ msgstr ""
 "wersja %s\n"
 "© 2004 Przemysław Sitek"
 
-#: data/msg.glade.h:8
+#: ../data/msg.glade.h:8
 msgid "<b>To:</b>"
 msgstr "<b>Do:</b>"
 
@@ -995,99 +1001,99 @@ msgstr "<b>Do:</b>"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/muc.glade.h:7
+#: ../data/muc.glade.h:7
 msgid "Conference"
 msgstr "Konferencja"
 
-#: data/muc.glade.h:8
+#: ../data/muc.glade.h:8
 msgid "_Menu"
 msgstr "_Menu"
 
-#: data/muc.glade.h:9
+#: ../data/muc.glade.h:9
 msgid "Topic:"
 msgstr "Temat:"
 
-#: data/muc.glade.h:11
+#: ../data/muc.glade.h:11
 msgid "Change topic"
 msgstr "Zmień temat"
 
-#: data/muc.glade.h:12
+#: ../data/muc.glade.h:12
 msgid "Update topic"
 msgstr "Zaktualizuj temat"
 
-#: data/muc.glade.h:13
+#: ../data/muc.glade.h:13
 msgid "Cancel"
 msgstr "Anuluj"
 
-#: data/muc.glade.h:14 data/muc.glade.h:33
+#: ../data/muc.glade.h:14 ../data/muc.glade.h:33
 msgid "Configure room"
 msgstr "Skonfiguruj pokój"
 
-#: data/muc.glade.h:19
+#: ../data/muc.glade.h:19
 msgid "Kick"
 msgstr "Wykop"
 
-#: data/muc.glade.h:20
+#: ../data/muc.glade.h:20
 msgid "Ban"
 msgstr "Zbanuj"
 
-#: data/muc.glade.h:21
+#: ../data/muc.glade.h:21
 msgid "Grant"
 msgstr "Przyznaj"
 
-#: data/muc.glade.h:22 data/muc.glade.h:28
+#: ../data/muc.glade.h:22 ../data/muc.glade.h:28
 msgid "Voice"
 msgstr "Głos"
 
-#: data/muc.glade.h:23 data/muc.glade.h:29
+#: ../data/muc.glade.h:23 ../data/muc.glade.h:29
 msgid "Membership"
 msgstr "Członkostwo"
 
-#: data/muc.glade.h:24 data/muc.glade.h:30
+#: ../data/muc.glade.h:24 ../data/muc.glade.h:30
 msgid "Moderator Privileges"
 msgstr "Przywileje moderatora"
 
-#: data/muc.glade.h:25 data/muc.glade.h:31
+#: ../data/muc.glade.h:25 ../data/muc.glade.h:31
 msgid "Ownership"
 msgstr "Posiadanie"
 
-#: data/muc.glade.h:26 data/muc.glade.h:32
+#: ../data/muc.glade.h:26 ../data/muc.glade.h:32
 msgid "Administrative Privileges"
 msgstr "Przywileje administratora"
 
-#: data/muc.glade.h:27
+#: ../data/muc.glade.h:27
 msgid "Revoke"
 msgstr "Odbierz"
 
-#: data/muc.glade.h:34
+#: ../data/muc.glade.h:34
 msgid "<i>Fetching data. Please wait...</i>"
 msgstr "<i>Pobieranie danych. Proszę czekać...</i>"
 
-#: data/muc.glade.h:35
+#: ../data/muc.glade.h:35
 msgid "Find"
 msgstr "Znajdź"
 
-#: data/muc.glade.h:36
+#: ../data/muc.glade.h:36
 msgid "Find:"
 msgstr "Znajdź:"
 
-#: data/muc.glade.h:38
+#: ../data/muc.glade.h:38
 msgid "Change _nick"
 msgstr "Zmień pseudo_nim:"
 
-#: data/muc.glade.h:39
+#: ../data/muc.glade.h:39
 msgid "URL Grabber"
-msgstr "Przechwytywanie URL-i"
+msgstr "Przechwytywanie adresów URL"
 
-#: data/muc_join.glade.h:9
+#: ../data/muc_join.glade.h:9
 msgid "_Room"
 msgstr "_Pokój"
 
-#: data/muc_join.glade.h:10
+#: ../data/muc_join.glade.h:10
 msgid "_Nickname"
 msgstr "Pseudo_nim"
 
-#: data/muc_join.glade.h:16
+#: ../data/muc_join.glade.h:16
 msgid "_Join conference"
 msgstr "_Dołącz do konferencji"
 
@@ -1096,79 +1102,79 @@ msgstr "_Dołącz do konferencji"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/new_account.glade.h:7
+#: ../data/new_account.glade.h:7
 msgid "Register new account"
 msgstr "Zarejestruj nowe konto"
 
-#: data/new_account.glade.h:8
+#: ../data/new_account.glade.h:8
 msgid "<b><big>Register account</big></b>"
 msgstr "<b><big>Zarejestruj konto</big></b>"
 
-#: data/new_account.glade.h:12
+#: ../data/new_account.glade.h:12
 msgid "Password (_retype)"
-msgstr "Hasło (powtó_rz)"
+msgstr "Hasło (proszę powtó_rzyć)"
 
-#: data/new_account.glade.h:13
+#: ../data/new_account.glade.h:13
 msgid "_Add to my accounts"
 msgstr "Dod_aj do kont"
 
-#: data/new_account.glade.h:19
+#: ../data/new_account.glade.h:19
 msgid "_Name"
 msgstr "_Nazwa"
 
-#: data/new_account.glade.h:21
+#: ../data/new_account.glade.h:21
 msgid "Sa_ve password"
 msgstr "Z_apisz hasło"
 
-#: data/register.glade.h:8
+#: ../data/register.glade.h:8
 msgid "Enter JabberID of an agent you want to register in:"
-msgstr "Podaj Jabber ID agenta, w którym chcesz się zarejestrować:"
+msgstr "Proszę podać identyfikator Jabbera agenta, w którym się zarejestrować:"
 
-#: data/register.glade.h:9 data/search.glade.h:10
+#: ../data/register.glade.h:9 ../data/search.glade.h:10
 msgid "users.jabber.org"
 msgstr "users.jabber.org"
 
-#: data/register.glade.h:12
+#: ../data/register.glade.h:12
 msgid ""
 "<b>Note</b>\n"
 "You have already been registered in this agent!"
 msgstr ""
 "<b>Uwaga</b>\n"
-"Jesteś już zarejestrowany w tym agencie!"
+"Użytkownik jest już zarejestrowany w tym agencie."
 
-#: data/register.glade.h:14 data/search.glade.h:11
+#: ../data/register.glade.h:14 ../data/search.glade.h:11
 msgid "label2"
 msgstr "etykieta 2"
 
-#: data/search.glade.h:8
+#: ../data/search.glade.h:8
 msgid "Which directory you want to search in?"
-msgstr "Który katalog użytkowników chcesz przeszukać?"
+msgstr "Który katalog użytkowników przeszukać?"
 
-#: data/search.glade.h:12
+#: ../data/search.glade.h:12
 msgid "<i>Fetching form. Please wait...</i>"
 msgstr "<i>Pobieranie formularza. Proszę czekać...</i>"
 
-#: data/search.glade.h:13
+#: ../data/search.glade.h:13
 msgid "label9"
 msgstr "etykieta 9"
 
-#: data/search.glade.h:14
+#: ../data/search.glade.h:14
 msgid "label3"
 msgstr "etykieta 3"
 
-#: data/search.glade.h:15
+#: ../data/search.glade.h:15
 msgid "<i>Waiting for results...</i>"
 msgstr "<i>Oczekiwanie na wyniki...</i>"
 
-#: data/search.glade.h:16
+#: ../data/search.glade.h:16
 msgid "label10"
 msgstr "etykieta 10"
 
-#: data/search.glade.h:17
+#: ../data/search.glade.h:17
 msgid "<b>Search results</b>"
 msgstr "<b>Wyniki wyszukiwania</b>"
 
-#: data/search.glade.h:18
+#: ../data/search.glade.h:18
 msgid "Information on user"
 msgstr "Informacje o użytkowniku"
 
@@ -1177,26 +1183,27 @@ msgstr "Informacje o użytkowniku"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/status.glade.h:7
+#: ../data/status.glade.h:7
 msgid "Edit Status"
-msgstr "Edytuj status"
+msgstr "Zmodyfikuj stan"
 
 #.
 #. * Translatable strings file generated by Glade.
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/subscribe.glade.h:7 src/popup_menu.c:73
+#: ../data/subscribe.glade.h:7 ../src/popup_menu.c:73
 msgid "Question"
 msgstr "Pytanie"
 
-#: data/subscribe.glade.h:8
+#: ../data/subscribe.glade.h:8
 #, c-format
 msgid "User <b>%s</b> would like to add you to his/her roster. Do you agree?"
 msgstr ""
-"Użytkownik <b>%s</b> chciałby dodać Cię do listy kontaktów. Zgadzasz się?"
+"Użytkownik <b>%s</b> chciałby dodać użytkownika do listy kontaktów. Wyrazić "
+"zgodę?"
 
-#: data/subscribe.glade.h:9
+#: ../data/subscribe.glade.h:9
 msgid "Add to contact list"
 msgstr "Dodaj do listy kontaktów"
 
@@ -1205,344 +1212,345 @@ msgstr "Dodaj do listy kontaktów"
 #. * Add this file to your project's POTFILES.in.
 #. * DO NOT compile it as part of your application.
 #.
-#: data/vcard.glade.h:7
+#: ../data/vcard.glade.h:7
 #, c-format
 msgid "Properties of  '%s'"
 msgstr "Właściwości \"%s\""
 
-#: data/vcard.glade.h:8
+#: ../data/vcard.glade.h:8
 msgid "<b><big>Contact Properties</big></b>"
 msgstr "<b><big>Właściwości kontaktu</big></b>"
 
-#: data/vcard.glade.h:9
+#: ../data/vcard.glade.h:9
 msgid "<b>Nickname</b>"
 msgstr "<b>Pseudonim</b>"
 
-#: data/vcard.glade.h:10
+#: ../data/vcard.glade.h:10
 msgid "  "
 msgstr "  "
 
-#: data/vcard.glade.h:12
+#: ../data/vcard.glade.h:12
 msgid "Change"
 msgstr "Zmień"
 
-#: data/vcard.glade.h:13
+#: ../data/vcard.glade.h:13
 msgid "<b>Subscription</b>"
 msgstr "<b>Subskrypcja</b>"
 
-#: data/vcard.glade.h:14
+#: ../data/vcard.glade.h:14
 msgid "<b>JabberID</b>"
-msgstr "<b>Jabber ID</b>"
+msgstr "<b>Identyfikator Jabbera</b>"
 
-#: data/vcard.glade.h:15
+#: ../data/vcard.glade.h:15
 msgid "..."
 msgstr "..."
 
-#: data/vcard.glade.h:16
+#: ../data/vcard.glade.h:16
 msgid "<b>none|both|from|to</b> - blah blah blah..."
 msgstr "<b>brak|w obie strony|od|do</b> - bla bla bla..."
 
-#: data/vcard.glade.h:17
+#: ../data/vcard.glade.h:17
 msgid "Contact"
 msgstr "Kontakt"
 
-#: data/vcard.glade.h:18
+#: ../data/vcard.glade.h:18
 msgid "<b>Personal</b>"
 msgstr "<b>Osobiste</b>"
 
-#: data/vcard.glade.h:20
+#: ../data/vcard.glade.h:20
 msgid "Full Name"
 msgstr "Imię i nazwisko"
 
-#: data/vcard.glade.h:21
+#: ../data/vcard.glade.h:21
 msgid "Nickname"
 msgstr "Pseudonim"
 
-#: data/vcard.glade.h:22
+#: ../data/vcard.glade.h:22
 msgid "Birthday"
 msgstr "Data urodzenia"
 
-#: data/vcard.glade.h:23
+#: ../data/vcard.glade.h:23
 msgid "<b>Contact</b>"
 msgstr "<b>Kontakt</b>"
 
-#: data/vcard.glade.h:24
+#: ../data/vcard.glade.h:24
 msgid "E-Mail"
-msgstr "E-mail"
+msgstr "Adres e-mail"
 
-#: data/vcard.glade.h:25
+#: ../data/vcard.glade.h:25
 msgid "Phone"
 msgstr "Telefon"
 
-#: data/vcard.glade.h:26
+#: ../data/vcard.glade.h:26
 msgid "Homepage"
 msgstr "Strona domowa"
 
-#: data/vcard.glade.h:34
+#: ../data/vcard.glade.h:34
 msgid "Street"
 msgstr "Ulica"
 
-#: data/vcard.glade.h:35
+#: ../data/vcard.glade.h:35
 msgid "City"
 msgstr "Miasto"
 
-#: data/vcard.glade.h:36
+#: ../data/vcard.glade.h:36
 msgid "State"
 msgstr "Stan/województwo"
 
-#: data/vcard.glade.h:37
+#: ../data/vcard.glade.h:37
 msgid "Postal Code"
 msgstr "Kod pocztowy"
 
-#: data/vcard.glade.h:38
+#: ../data/vcard.glade.h:38
 msgid "Country"
 msgstr "Kraj"
 
-#: data/vcard.glade.h:45
+#: ../data/vcard.glade.h:45
 msgid "Location"
 msgstr "Położenie"
 
-#: data/vcard.glade.h:47
+#: ../data/vcard.glade.h:47
 msgid "Unit"
 msgstr "Jednostka"
 
-#: data/vcard.glade.h:48
+#: ../data/vcard.glade.h:48
 msgid "Position"
 msgstr "Pozycja"
 
-#: data/vcard.glade.h:49
+#: ../data/vcard.glade.h:49
 msgid "Role"
 msgstr "Rola"
 
-#: data/vcard.glade.h:54
+#: ../data/vcard.glade.h:54
 msgid "Organization"
 msgstr "Organizacja"
 
-#: data/vcard.glade.h:55
+#: ../data/vcard.glade.h:55
 msgid "About contact"
 msgstr "O kontakcie"
 
-#: data/vcard.glade.h:57
+#: ../data/vcard.glade.h:57
 msgid "<b>Software</b>"
 msgstr "<b>Oprogramowanie</b>"
 
-#: data/vcard.glade.h:58
+#: ../data/vcard.glade.h:58
 msgid "Client Name"
 msgstr "Nazwa klienta"
 
-#: data/vcard.glade.h:59
+#: ../data/vcard.glade.h:59
 msgid "Client Version"
 msgstr "Wersja klienta"
 
-#: data/vcard.glade.h:60
+#: ../data/vcard.glade.h:60
 msgid "Operating System"
 msgstr "System operacyjny"
 
-#: data/vcard.glade.h:61 data/vcard.glade.h:62 data/vcard.glade.h:63
+#: ../data/vcard.glade.h:61 ../data/vcard.glade.h:62 ../data/vcard.glade.h:63
 msgid "?"
 msgstr "?"
 
-#: data/vcard.glade.h:64
+#: ../data/vcard.glade.h:64
 msgid "Computer"
 msgstr "Komputer"
 
-#: src/accounts.c:114
+#: ../src/accounts.c:114
 msgid "[none]"
 msgstr "[brak]"
 
-#: src/accounts.c:149 src/accounts.c:708
+#: ../src/accounts.c:149 ../src/accounts.c:708
 msgid "Show more options"
 msgstr "Wyświetl więcej opcji"
 
-#: src/accounts.c:149 src/accounts.c:708
+#: ../src/accounts.c:149 ../src/accounts.c:708
 msgid "Hide more oprions"
 msgstr "Ukryj opcje"
 
-#: src/accounts.c:439 src/accounts.c:643 src/accounts.c:737
-#: src/popup_group.c:130
+#: ../src/accounts.c:439 ../src/accounts.c:643 ../src/accounts.c:737
+#: ../src/popup_group.c:130
 msgid "Enter name..."
-msgstr "Podaj nazwę..."
+msgstr "Proszę podać nazwę..."
 
-#: src/accounts.c:446 src/accounts.c:650 src/accounts.c:744
+#: ../src/accounts.c:446 ../src/accounts.c:650 ../src/accounts.c:744
 msgid "New account name:"
 msgstr "Nazwa nowego konta:"
 
-#: src/accounts.c:451 src/accounts.c:655 src/popup_group.c:142
-#: src/settings_statuses.c:194
+#: ../src/accounts.c:451 ../src/accounts.c:655 ../src/popup_group.c:142
+#: ../src/settings_statuses.c:194
 msgid "Unnamed"
-msgstr "Nienazwane"
+msgstr "Bez nazwy"
 
-#: src/accounts.c:515
+#: ../src/accounts.c:515
 msgid "Autoconnect"
 msgstr "Automatyczne łączenie"
 
-#: src/archive_viewer.c:190
+#: ../src/archive_viewer.c:190
 msgid ""
 "Message Archive has been turned off. Go to Settings window to change that."
 msgstr ""
-"Archiwum wiadomości zostało wyłączone. Przejdź do okna Ustawienia, aby to "
-"zmienić."
+"Archiwum wiadomości zostało wyłączone. Należy przejść do okna Ustawienia, "
+"aby to zmienić."
 
-#: src/archive_viewer.c:222
+#: ../src/archive_viewer.c:222
 msgid "Folders"
 msgstr "Foldery"
 
-#: src/archive_viewer.c:247
+#: ../src/archive_viewer.c:247
 msgid "Inbox"
 msgstr "Przychodzące"
 
-#: src/archive_viewer.c:248
+#: ../src/archive_viewer.c:248
 msgid "Outbox"
 msgstr "Wychodzące"
 
-#: src/archive_viewer.c:316 src/settings.c:50
+#: ../src/archive_viewer.c:316 ../src/settings.c:50
 msgid "Conversations"
 msgstr "Rozmowy"
 
-#: src/archive_viewer.c:676 src/chat.c:419
+#: ../src/archive_viewer.c:676 ../src/chat.c:419
 msgid "Me"
 msgstr "Ja"
 
-#: src/archive_viewer.c:711
+#: ../src/archive_viewer.c:711
 msgid "Subject"
 msgstr "Temat"
 
-#: src/archive_viewer.c:717
+#: ../src/archive_viewer.c:717
 msgid "JID"
 msgstr "JID"
 
-#: src/archive_viewer.c:723
+#: ../src/archive_viewer.c:723
 msgid "Date"
 msgstr "Data"
 
-#: src/archive_viewer.c:794
+#: ../src/archive_viewer.c:794
 msgid "No subject"
 msgstr "Brak tematu"
 
-#: src/browse.c:504
+#: ../src/browse.c:504
 msgid "This JID can't be browsed..."
 msgstr "Ten JID nie może być przeglądany..."
 
-#: src/change_password.c:71
+#: ../src/change_password.c:71
 msgid "Both passwords must be the same!"
-msgstr "Oba hasła muszą być takie same!"
+msgstr "Oba hasła muszą być takie same."
 
-#: src/change_password.c:74
+#: ../src/change_password.c:74
 msgid "You have entered bad password!"
-msgstr "Podano złe hasło!"
+msgstr "Podano błędne hasło."
 
-#: src/change_password.c:105
+#: ../src/change_password.c:105
 msgid "An error occured while trying to change password."
 msgstr "Wystąpił błąd podczas próby zmiany hasła."
 
-#: src/change_password.c:107
+#: ../src/change_password.c:107
 msgid "Your password has been succesfully changed."
 msgstr "Hasło zostało pomyślnie zmienione."
 
-#: src/chat.c:639
+#: ../src/chat.c:639
 #, c-format
 msgid ""
 "User %s has been blocked. You won't receive any messages from him. To undo "
 "this open Preferences window and go to \"Block List\"."
 msgstr ""
-"Użytkownik %s został zablokowany. Nie będziesz dostawać więcej wiadomości od "
-"niego. Aby to zmienić, otwórz okno Preferencje i przejdź do \"Lista "
-"zablokowanych\"."
+"Użytkownik %s został zablokowany. Wiadomości od niego nie będą już "
+"otrzymywane. Aby to zmienić, należy otworzyć okno Preferencje i przejść do "
+"\"Listy zablokowanych\"."
 
-#: src/chat.c:789
+#: ../src/chat.c:789
 #, c-format
 msgid "%s (%d)"
 msgstr "%s (%d)"
 
-#: src/emoticons.c:345
+#: ../src/emoticons.c:345
 msgid "Open link"
 msgstr "Otwórz odnośnik"
 
-#: src/events.c:75 src/events.c:178
+#: ../src/events.c:75 ../src/events.c:178
 #, c-format
 msgid "%s is now %s"
 msgstr "%s jest teraz %s"
 
-#: src/events.c:170
+#: ../src/events.c:170
 #, c-format
 msgid "Message from %s"
 msgstr "Wiadomość od %s"
 
-#: src/events.c:170
+#: ../src/events.c:170
 #, c-format
 msgid "Chat with %s"
 msgstr "Rozmowa z %s"
 
-#: src/gui.c:130
+#: ../src/gui.c:130
 msgid "kf homepage"
 msgstr "Strona domowa kf"
 
-#: src/gui.c:131
+#: ../src/gui.c:131
 msgid "kf bug tracker"
 msgstr "System śledzenia błędów kf"
 
-#: src/gui.c:894
+#: ../src/gui.c:895
 msgid "You have been disconnected..."
-msgstr "Zostałeś rozłączony..."
+msgstr "Użytkownik został rozłączony..."
 
-#: src/gui.c:899
+#: ../src/gui.c:900
 msgid "Disconnected..."
 msgstr "Rozłączony..."
 
-#: src/gui_status.c:78
+#: ../src/gui_status.c:78
 #, c-format
 msgid "Last #%d"
 msgstr "Ostatni #%d"
 
-#: src/jabber_connection.c:121
+#: ../src/jabber_connection.c:121
 msgid "Logging in..."
 msgstr "Logowanie..."
 
-#: src/jabber_connection.c:125
+#: ../src/jabber_connection.c:125
 msgid "I can't connect!!!"
-msgstr "Nie można się połączyć!"
+msgstr "Nie można się połączyć."
 
-#: src/jabber_connection.c:148
+#: ../src/jabber_connection.c:148
 msgid "I have failed to log in..."
 msgstr "Zalogowanie nie powiodło się..."
 
-#: src/jabber_connection.c:221
+#: ../src/jabber_connection.c:221
 msgid "Connecting..."
 msgstr "Łączenie się..."
 
-#: src/jabber_connection.c:559
+#: ../src/jabber_connection.c:559
 msgid "available"
 msgstr "dostępny"
 
-#: src/jabber_connection.c:560
+#: ../src/jabber_connection.c:560
 msgid "free for chat"
 msgstr "porozmawiaj ze mną"
 
-#: src/jabber_connection.c:561
+#: ../src/jabber_connection.c:561
 msgid "away"
 msgstr "zaraz wracam"
 
-#: src/jabber_connection.c:562
+#: ../src/jabber_connection.c:562
 msgid "eXtended away"
 msgstr "nieobecny"
 
-#: src/jabber_connection.c:563
+#: ../src/jabber_connection.c:563
 msgid "busy"
 msgstr "zajęty"
 
-#: src/jabber_connection.c:564
+#: ../src/jabber_connection.c:564
 msgid "invisible"
 msgstr "niewidoczny"
 
-#: src/jabber_connection.c:565
+#: ../src/jabber_connection.c:565
 msgid "offline"
-msgstr "rozłączony"
+msgstr "offline"
 
-#: src/jabber_connection.c:712
+#: ../src/jabber_connection.c:712
 msgid "You have to be connected to do that..."
 msgstr "Należy być połączonym, aby to zrobić..."
 
-#: src/main.c:129
+#: ../src/main.c:129
+#, c-format
 msgid ""
 "kf\n"
 "--\n"
@@ -1556,16 +1564,16 @@ msgstr ""
 "\n"
 "(c) 2003 Przemyslaw Sitek"
 
-#: src/main.c:133
+#: ../src/main.c:133
 #, c-format
 msgid "kf version %s\n"
 msgstr "kf wersja %s\n"
 
-#: src/message.c:139
+#: ../src/message.c:139
 msgid "(no topic)"
 msgstr "(brak tematu)"
 
-#: src/message.c:164
+#: ../src/message.c:164
 msgid ""
 "\n"
 "\n"
@@ -1573,68 +1581,68 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Załączone URL-e\n"
+"Załączone adresy URL\n"
 
-#: src/muc.c:815
+#: ../src/muc.c:815
 #, c-format
 msgid "Error #%d: %s\n"
 msgstr "Błąd #%d: %s\n"
 
-#: src/muc.c:997
+#: ../src/muc.c:997
 #, c-format
 msgid "/me has changed topic to '%s'"
 msgstr "/me zmienił temat na \"%s\""
 
-#: src/muc.c:1362
+#: ../src/muc.c:1362
 msgid "You are forbidden to configure this room"
 msgstr "Nie można skonfigurować tego pokoju"
 
-#: src/muc.c:1368 src/new_account.c:180
+#: ../src/muc.c:1368 ../src/new_account.c:180
 #, c-format
 msgid "Error #%s: %s"
 msgstr "Błąd #%s: %s"
 
-#: src/muc.c:1373
+#: ../src/muc.c:1373
 msgid "An error occurred while trying to fetch form"
 msgstr "Wystąpił błąd podczas próby pobrania formularza"
 
-#: src/muc.c:1452
+#: ../src/muc.c:1452
 msgid "Error while submitting data..."
 msgstr "Wystąpił błąd podczas wysyłania danych..."
 
-#: src/muc.c:1454
+#: ../src/muc.c:1454
 msgid "Room has been configured."
 msgstr "Pokój został skonfigurowany."
 
-#: src/muc.c:1814
+#: ../src/muc.c:1814
 msgid "Are you sure you want to leave this conference?"
-msgstr "Czy na pewno chcesz opuścić tę konferencję?"
+msgstr "Na pewno opuścić tę konferencję?"
 
-#: src/muc_join.c:263
+#: ../src/muc_join.c:263
 msgid "Bookmarks"
 msgstr "Zakładki"
 
-#: src/new_account.c:194
+#: ../src/new_account.c:194
 msgid "Account registered."
 msgstr "Konto zostało zarejestrowane."
 
-#: src/popup_group.c:55
+#: ../src/popup_group.c:55
 msgid "New group..."
 msgstr "Nowa grupa..."
 
-#: src/popup_group.c:137
+#: ../src/popup_group.c:137
 msgid "New group name:"
 msgstr "Nazwa nowej grupy:"
 
-#: src/popup_menu.c:79
+#: ../src/popup_menu.c:79
 msgid "Dou you want to remove this contact?"
-msgstr "Czy na pewno chcesz usunąć ten kontakt?"
+msgstr "Na pewno usunąć ten kontakt?"
 
-#: src/popup_menu.c:83
+#: ../src/popup_menu.c:83
 msgid "_Deny subscription to this contact"
 msgstr "O_dmów subskrypcji tego kontaktu"
 
-#: src/register.c:136 src/register.c:277
+#: ../src/register.c:136 ../src/register.c:277
 #, c-format
 msgid ""
 "An error occured while trying to register:\n"
@@ -1643,67 +1651,66 @@ msgstr ""
 "Wystąpił błąd podczas próby zarejestrowania się:\n"
 "#%d: %s"
 
-#: src/register.c:154 src/register.c:197 src/search.c:197
+#: ../src/register.c:154 ../src/register.c:197 ../src/search.c:197
 msgid "Agent didn't supply registration form..."
 msgstr "Agent nie dostarczył formularza rejestracji..."
 
-#: src/register.c:288
+#: ../src/register.c:288
 msgid "Registration successful"
 msgstr "Rejestracja powiodła się"
 
-#: src/settings.c:51
+#: ../src/settings.c:51
 msgid "Events"
 msgstr "Zdarzenia"
 
-#: src/settings.c:56
+#: ../src/settings.c:56
 msgid "Icons"
 msgstr "Ikony"
 
-#: src/settings.c:57
+#: ../src/settings.c:57
 msgid "Sounds"
 msgstr "Dźwięki"
 
-#: src/settings.c:421
+#: ../src/settings.c:421
 msgid "Choose file"
-msgstr "Wybierz plik"
+msgstr "Wybór pliku"
 
-#: src/settings_blacklist.c:120
+#: ../src/settings_blacklist.c:120
 msgid "Enter JID here"
-msgstr "Podaj JID"
+msgstr "Proszę podać JID"
 
-#: src/settings_statuses.c:146
+#: ../src/settings_statuses.c:146
 msgid "Do you really want to remove this status?"
-msgstr "Czy na pewno chcesz usunąć ten status?"
+msgstr "Na pewno usunąć ten stan?"
 
-#: src/settings_statuses.c:195
+#: ../src/settings_statuses.c:195
 msgid "Enter text here"
-msgstr "Podaj tekst tutaj"
+msgstr "Proszę podać tekst"
 
-#: src/vcard.c:337
+#: ../src/vcard.c:337
 msgid "<b>none</b> - None of you can see each other's presence"
 msgstr "<b>brak</b> - nie możecie wzajemnie widzieć swojej obecności"
 
-#: src/vcard.c:338
+#: ../src/vcard.c:338
 msgid "<b>from</b> - They can see your presence, but you can't see theirs"
-msgstr ""
-"<b>od</b> - kontakt widzi twoją obecność, ale nie można zobaczyć jego"
+msgstr "<b>od</b> - kontakt widzi twoją obecność, ale nie można zobaczyć jego"
 
-#: src/vcard.c:339
+#: ../src/vcard.c:339
 msgid "<b>to</b> - You can see their presence, but they can't see yours"
 msgstr "<b>do</b> - widać obecność kontaktu, ale on nie widzi twojej"
 
-#: src/vcard.c:340
+#: ../src/vcard.c:340
 msgid "<b>both</b> - Both of you can see each other's presence"
 msgstr "<b>w obie strony</b> - widać wzajemnie swoją obecność"
 
-#: src/vcard.c:341
+#: ../src/vcard.c:341
 msgid "<b>unknown</b> - Presence is unknown"
 msgstr "<b>nieznana</b> - obecność jest nieznana"
 
-#: src/vcard.c:454
+#: ../src/vcard.c:454
 msgid "There was an error!"
-msgstr "Wystąpił błąd!"
+msgstr "Wystąpił błąd."
 
-#: src/vcard.c:456
+#: ../src/vcard.c:456
 msgid "vCard updated successfully!"
-msgstr "Wizytówka vCard została pomyślnie zaktualizowana!"
+msgstr "Wizytówka vCard została pomyślnie zaktualizowana."
