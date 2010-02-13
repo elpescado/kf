@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kf trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-07-10 08:11+0000\n"
-"PO-Revision-Date: 2009-07-12 18:23+0100\n"
-"Last-Translator: Nagy István Zoltán <nagyesta@gmail.com>\n"
+"POT-Creation-Date: 2010-02-13 15:54+0000\n"
+"PO-Revision-Date: 2010-02-13 19:53+0100\n"
+"Last-Translator: Nikolas Slivka <snicore@gmail.com>\n"
 "Language-Team: Hungarian <fedora-trans-hu@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -270,7 +270,6 @@ msgid "Browse Agents"
 msgstr "Ügynökök böngészése"
 
 #: ../data/dock.glade.h:11
-#, fuzzy
 msgid "Seacrh For Users"
 msgstr "Felhasználók keresése"
 
@@ -464,7 +463,6 @@ msgid "Available"
 msgstr "Elérhető"
 
 #: ../data/kf.glade.h:47
-#, fuzzy
 msgid "Disconnected with status"
 msgstr "Kilépett ilyen állapottal:"
 
@@ -479,25 +477,21 @@ msgstr "<big><b>A kapcsolat beállításai</b></big>"
 #: ../data/kf.glade.h:50
 #: ../data/muc_join.glade.h:11
 #: ../data/new_account.glade.h:10
-#, fuzzy
 msgid "_Password"
 msgstr "_Jelszó"
 
 #: ../data/kf.glade.h:51
 #: ../data/muc_join.glade.h:8
 #: ../data/new_account.glade.h:9
-#, fuzzy
 msgid "_Server"
 msgstr "_Kiszolgáló"
 
 #: ../data/kf.glade.h:52
 #: ../data/new_account.glade.h:11
-#, fuzzy
 msgid "_Username"
 msgstr "F_elhasználónév"
 
 #: ../data/kf.glade.h:53
-#, fuzzy
 msgid "<b>_Account</b>"
 msgstr "<b>_Fiók:</b>"
 
@@ -510,7 +504,6 @@ msgid "Check this if you want your password to be saved. Otherwise, you will be 
 msgstr "Jelölje ezt be, ha el szeretné menteni a jelszavát. Ellenkező esetben minden alkalommal be kell majd írnia bejelentkezéskor."
 
 #: ../data/kf.glade.h:59
-#, fuzzy
 msgid "Sa_ve Password"
 msgstr "Jelszó _mentése"
 
@@ -665,12 +658,10 @@ msgid "Presence"
 msgstr "Jelenlét"
 
 #: ../data/kf.glade.h:109
-#, fuzzy
 msgid "Send Online"
 msgstr "Elérhető küldés"
 
 #: ../data/kf.glade.h:110
-#, fuzzy
 msgid "Send Invisible"
 msgstr "Láthatatlan küldés"
 
@@ -767,27 +758,22 @@ msgid "Double clicking on contact will open a message composing window"
 msgstr "Duplán kattintva a partnerre egy üzenet ablak nyílik meg"
 
 #: ../data/kf.glade.h:141
-#, fuzzy
 msgid "Auto-_popup new chats & messages"
 msgstr "Automatikus é_rtesítések új üzenetekről és csevegésekről"
 
 #: ../data/kf.glade.h:142
-#, fuzzy
 msgid "Enable _Sound"
 msgstr "_Hang engedélyezése"
 
 #: ../data/kf.glade.h:143
-#, fuzzy
 msgid "Toggle this if you want all new chats to open in tabs in roster window rather than in new windows"
 msgstr "Ezzel választhatja ki, hogy új ablakokban nyíljanak meg az új csevegések, vagy a partnerlista ablakán fülekben"
 
 #: ../data/kf.glade.h:144
-#, fuzzy
 msgid "Open chats in _tabs by default"
 msgstr "A csevegések megnyitása _füleken alapértelmezés szerint"
 
 #: ../data/kf.glade.h:145
-#, fuzzy
 msgid "_Minimize roster window to tray on close"
 msgstr "Partnerlista _minimalizálása a tálcára bezáráskor"
 
@@ -800,7 +786,6 @@ msgid " "
 msgstr " "
 
 #: ../data/kf.glade.h:148
-#, fuzzy
 msgid "Enable _Docklet"
 msgstr "_Docklet engedélyezése"
 
@@ -824,7 +809,6 @@ msgid "Toggle this option if you want emoticons like ':-)' to be exchanged for t
 msgstr "Váltsa át ezt az opciót, ha a hangulatjeleket, mint ':-)' át szeretné váltani a grafikus megfelelőjükre"
 
 #: ../data/kf.glade.h:153
-#, fuzzy
 msgid "_Use emoticons"
 msgstr "Hangulat_jelek használata"
 
@@ -961,12 +945,10 @@ msgid "play"
 msgstr "lejátszás"
 
 #: ../data/kf.glade.h:196
-#, fuzzy
 msgid "artsplay"
 msgstr "artsplay"
 
 #: ../data/kf.glade.h:197
-#, fuzzy
 msgid "esdplay"
 msgstr "esdplay"
 
@@ -1035,19 +1017,16 @@ msgstr "label63"
 
 #: ../data/kf.glade.h:215
 #: ../data/kf.glade.h:223
-#, fuzzy
 msgid "_Install"
 msgstr "_Telepítés"
 
 #: ../data/kf.glade.h:216
 #: ../data/kf.glade.h:224
-#, fuzzy
 msgid "_Uninstall"
 msgstr "_Eltávolítás"
 
 #: ../data/kf.glade.h:217
 #: ../data/kf.glade.h:225
-#, fuzzy
 msgid "Get _More"
 msgstr "_Továbbiak beszerzése"
 
@@ -1056,17 +1035,14 @@ msgid "Roster Icons"
 msgstr "Partnerikonok"
 
 #: ../data/kf.glade.h:219
-#, fuzzy
 msgid "Regular _expression:"
 msgstr "_Reguláris kifejezés:"
 
 #: ../data/kf.glade.h:221
-#, fuzzy
 msgid "_Iconset:"
 msgstr "_Ikoncsoport:"
 
 #: ../data/kf.glade.h:222
-#, fuzzy
 msgid "Transport Icons"
 msgstr "Ikonok továbbítása"
 
@@ -1125,7 +1101,6 @@ msgid "Conference"
 msgstr "Konferencia"
 
 #: ../data/muc.glade.h:8
-#, fuzzy
 msgid "_Menu"
 msgstr "_Menü"
 
@@ -1204,7 +1179,6 @@ msgid "Find:"
 msgstr "Keresés:"
 
 #: ../data/muc.glade.h:38
-#, fuzzy
 msgid "Change _nick"
 msgstr "_Becenév megváltoztatása"
 
@@ -1213,17 +1187,14 @@ msgid "URL Grabber"
 msgstr "URL elkapó"
 
 #: ../data/muc_join.glade.h:9
-#, fuzzy
 msgid "_Room"
 msgstr "Sz_oba"
 
 #: ../data/muc_join.glade.h:10
-#, fuzzy
 msgid "_Nickname"
 msgstr "_Becenév"
 
 #: ../data/muc_join.glade.h:16
-#, fuzzy
 msgid "_Join conference"
 msgstr "_Csatlakozás konferenciához"
 
@@ -1241,22 +1212,18 @@ msgid "<b><big>Register account</big></b>"
 msgstr "<b><big>Új fiók létrehozása</big></b>"
 
 #: ../data/new_account.glade.h:12
-#, fuzzy
 msgid "Password (_retype)"
 msgstr "Jelszó (_megerősítés)"
 
 #: ../data/new_account.glade.h:13
-#, fuzzy
 msgid "_Add to my accounts"
 msgstr "_Hozzáadás a saját fiókjaimhoz"
 
 #: ../data/new_account.glade.h:19
-#, fuzzy
 msgid "_Name"
 msgstr "_Név"
 
 #: ../data/new_account.glade.h:21
-#, fuzzy
 msgid "Sa_ve password"
 msgstr "Jelszó _mentése"
 
@@ -1729,7 +1696,7 @@ msgid "Error #%d: %s\n"
 msgstr "Hiba #%d: %s\n"
 
 #: ../src/muc.c:997
-#, fuzzy, c-format
+#, c-format
 msgid "/me has changed topic to '%s'"
 msgstr "/én megváltoztatta a témát erre: '%s'"
 
@@ -1780,7 +1747,6 @@ msgid "Dou you want to remove this contact?"
 msgstr "Valóban el kívánja távolítani ezt a partnert?"
 
 #: ../src/popup_menu.c:83
-#, fuzzy
 msgid "_Deny subscription to this contact"
 msgstr "Ezen partner feliratkozásának megtaga_dása"
 
@@ -1859,3 +1825,4 @@ msgstr "Hiba történt!"
 #: ../src/vcard.c:456
 msgid "vCard updated successfully!"
 msgstr "A vCard frissítése sikeres."
+
